@@ -2,12 +2,12 @@
 name: "TomorrowScale"
 title: "TomorrowScale"
 description: "The cutting edge of science and medicine."
-logo: 'assets/images/tomorrowscale_logo_blk.png'
+logo: 'assets/images/tomorrowscale.png'
 favicon: 'assets/images/tomorrowscale-logo.png'
 baseurl: ''
 google_analytics: 'UA-'
 disqus: 'briggsly'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://tomorroscale.us7.list-manage.com/subscribe/post?u=f89af74ca9420010cf2199bfe&amp;id=ee44285133'
 include: ["_pages"]
 permalink: /:title/
 

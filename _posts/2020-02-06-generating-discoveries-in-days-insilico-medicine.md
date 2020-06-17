@@ -9,7 +9,7 @@ categories: [ biology, microbiology, AI, biotech, podcast ]
 image: assets/images/generating-discoveries-in-days-insilico-medicine.png
 ---
 
-## Guests: Dr. Alex Zhavoronkov, Co-founder & CEO - InSilico Medicine
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Generating-Discoveries-in-Days---InSilico-Medicine-eam27c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Drug discovery is changing. Deep generative models, as being pioneered by our guest Dr. Alex Zhavoronkov, founder and CEO of InSilico Medicine, are able to generate entirely new molecules and even, as we’ll hear, can discover new targets altogether. Within days.
 
@@ -21,8 +21,8 @@ Sources:
 
 “Reply to: Assessing the Impact of Generative AI on Medicinal Chemistry” (Zhavoronkov 2020)
 
-https://insilico.com
+**InSilico Medicine:** https://insilico.com
 
-https://tomorrowscale.com
+Listen on [Your Favorite Podcast App](https://anchor.fm/tomorrowscale/)
 
-*The TomorrowScale Podcast is a passion project created by Justin Briggs to showcase scientists and entrepreneurs who are building the future, and hear stories about how to build the future. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thank you to our guests for sharing their time and knowledge with us.  Thanks for listening.*
+*The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research & development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.*

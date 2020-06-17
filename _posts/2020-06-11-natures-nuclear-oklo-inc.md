@@ -3,10 +3,12 @@ layout: post
 title:  "Nature's Nuclear - Oklo, Inc."
 author: briggs
 comments: false
+featured: true
 hidden: false
 permalink: /natures-nuclear-oklo-inc
 categories: [ physics, nuclear, engineering, chemistry, energy, podcast ]
 image: assets/images/natures-nuclear-oklo-inc.png
+description: "Oklo co-founders discuss building a startup building advanced nuclear powerplants."
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Natures-Nuclear---Oklo-Inc-efad3j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
@@ -24,5 +26,7 @@ Aurora Powerhouse Press Release: [via https://businesswire.com](https://www.busi
 Aurora's NRC Application Accepted for Docketing: [via American Nuclear Solciety](https://www.ans.org/news/article-269/auroras-docketing-marks-dawn-for-advanced-reactor-licensing/)
 
 Follow us on Twitter: <a href="http://twitter.com/tomorrowscale" target="_blank" rel="noopener ugc noreferrer">http://twitter.com/tomorrowscale</a>
+
+Listen on [Your Favorite Podcast App](https://anchor.fm/tomorrowscale/)
 
 *The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research & development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.*

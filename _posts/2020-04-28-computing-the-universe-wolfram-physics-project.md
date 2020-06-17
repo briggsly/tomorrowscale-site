@@ -9,20 +9,24 @@ categories: [ chemistry, biology, AI, biotech, podcast ]
 image: assets/images/computing-the-universe-jonathan-gorard.png
 ---
 
-### Guests: Dr. Ana Jaklenec, MIT Langer Lab &amp; Dr. Kevin McHugh, Rice University
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Computing-the-Universe---Jonathan-Gorard--Wolfram-Physics-edcssn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+On this episode, we’ll speak with one of the principal researchers on the Wolfram Physics Project, Jonathan Gorard. We'll discuss how they plan to actually implement their “fundamental theory of the universe” and build these computational universes.
 
-Vaccines save lives. Yet, despite concerted global efforts more than 1.5 million children die each year from vaccine preventable diseases. The Bill &amp; Melinda Gates Foundation are at the center of this massive endeavor, and have enlisted labs around the world to help solve intractable problems in the developing world, including work recently published in Science Translational Medicine. The technology involves a microneedle patch that can administer a standard vaccine, painlessly, but also leave an invisible vaccination record right on the skin. Meaning those who need vaccines can get them, even in the most remote locations, and those who don't need them, can prove they are protected without the need for paper or even digital records. You could carry the proof of prophylaxis with you, invisibly, as long as the vaccine protects you.
+Jonathan Gorard is a theoretical mathematician, researcher at the University of Cambridge, and consultant to Wolfram Research. He is ostensibly the scientist tasked with doing the maths to demonstrate these concepts to the scientific community and the public. Actually proving these ideas out in the open, over the din of more than a few detractors, may be one of the most difficult parts of this highly complex project.
 
-On this episode, we’ll meet two of the paper’s co-authors out of the [Langer Lab at MIT](https://langerlab.mit.edu/): [Dr. Ana Jaklenec](https://www.linkedin.com/in/ana-jaklenec-a6526253/) and [Dr. Kevin McHugh](https://bioengineering.rice.edu/people/faculty/kevin-mchugh).
-
-For more information, read the publication: [McHugh et al. 2019](https://doi.org/10.1126/scitranslmed.aay7162)
+Along with a call for scientists everywhere to contribute and critique the project in an open-source manner, the team published nearly a thousand pages and over 500 hours of video. All since Wolfram’s announcement on April 14th titled, “We may have found a fundamental theory of the universe… and it’s beautiful.” The Wolfram Physics team, consisting of Stephen Wolfram, Jonathan Gorard, and theoretical physicist and competitive programmer Max Piskanov, are literally live-streaming the entire thing. Scientific discovery, open collaboration, and peer review happening in real-time, and anyone can get involved. Now that is beautiful. 
 
 This is the TomorrowScale Podcast. Hosted by [Justin Briggs](https://www.linkedin.com/in/briggsly).
 
-*The TomorrowScale Podcast is a passion project created by [Justin Briggs](https://www.linkedin.com/in/briggsly) to showcase technology companies, scientists, inventors, and entrepreneurs who are building the future. Interviews may be with old friends or were cold-contacted by Justin directly to be on the show. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thank you to our guests for sharing their time and knowledge with us.  And thank you for listening.*
+**Wolfram Physics Project Website:** https://www.wolframphysics.org/
 
-Follow us on Twitter: <a href="http://twitter.com/tomorrowscale" target="_blank" rel="noopener ugc noreferrer">http://twitter.com/tomorrowscale</a>
+**Announcement by Stephen Wolfram:** https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
 
-TomorrowScale Website: <a href="http://tomorrowscale.com/" target="_blank" rel="noopener ugc noreferrer">http://TomorrowScale.com</a>
+**Registry of Notable Universes:** https://www.wolframphysics.org/universes/
+
+**Jonathan Gorard, Cambridge University Center for Scientific Computing:** https://www.csc.cam.ac.uk/academic/MPhilSciComp/directory/gorard
+
+Listen on [Your Favorite Podcast App](https://anchor.fm/tomorrowscale/)
+
+*The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research & development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.*

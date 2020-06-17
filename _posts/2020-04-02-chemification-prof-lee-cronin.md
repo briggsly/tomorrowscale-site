@@ -9,20 +9,18 @@ categories: [ chemistry, biology, AI, biotech, podcast ]
 image: assets/images/chemification-prof-lee-cronin.png
 ---
 
-### Guests: Dr. Ana Jaklenec, MIT Langer Lab &amp; Dr. Kevin McHugh, Rice University
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Chemification---Prof--Lee-Cronin-ecajia" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+In the beginning, there was chemistry. Well, not exactly. From those primordial reaction conditions … life emerged. But how? What separates chemistry from biology? How do we study the origin of life? What can we do with a Chemputer?
 
-Vaccines save lives. Yet, despite concerted global efforts more than 1.5 million children die each year from vaccine preventable diseases. The Bill &amp; Melinda Gates Foundation are at the center of this massive endeavor, and have enlisted labs around the world to help solve intractable problems in the developing world, including work recently published in Science Translational Medicine. The technology involves a microneedle patch that can administer a standard vaccine, painlessly, but also leave an invisible vaccination record right on the skin. Meaning those who need vaccines can get them, even in the most remote locations, and those who don't need them, can prove they are protected without the need for paper or even digital records. You could carry the proof of prophylaxis with you, invisibly, as long as the vaccine protects you.
-
-On this episode, we’ll meet two of the paper’s co-authors out of the [Langer Lab at MIT](https://langerlab.mit.edu/): [Dr. Ana Jaklenec](https://www.linkedin.com/in/ana-jaklenec-a6526253/) and [Dr. Kevin McHugh](https://bioengineering.rice.edu/people/faculty/kevin-mchugh).
-
-For more information, read the publication: [McHugh et al. 2019](https://doi.org/10.1126/scitranslmed.aay7162)
+In this episode, we’ll head to the lab of Dr. Lee Cronin, Regius Professor of Chemistry at the University of Glasgow, Scotland, and perhaps one of the most provocative chemists in the field today. We'll discuss his lab's view into the origin of life, the balance between theory and reality, and how the Chemputer could be an important component to the future of chemistry. 
 
 This is the TomorrowScale Podcast. Hosted by [Justin Briggs](https://www.linkedin.com/in/briggsly).
 
-*The TomorrowScale Podcast is a passion project created by [Justin Briggs](https://www.linkedin.com/in/briggsly) to showcase technology companies, scientists, inventors, and entrepreneurs who are building the future. Interviews may be with old friends or were cold-contacted by Justin directly to be on the show. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thank you to our guests for sharing their time and knowledge with us.  And thank you for listening.*
+**The Cronin Lab:** https://croninlab.com
+**Dr. Cronin on Twitter:** https://twitter.com/leecronin
+**Chemify.org:** http://chemify.org
 
-Follow us on Twitter: <a href="http://twitter.com/tomorrowscale" target="_blank" rel="noopener ugc noreferrer">http://twitter.com/tomorrowscale</a>
+**Listen on [Your Favorite Podcast App](https://anchor.fm/tomorrowscale/)**
 
-TomorrowScale Website: <a href="http://tomorrowscale.com/" target="_blank" rel="noopener ugc noreferrer">http://TomorrowScale.com</a>
+*The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research & development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.*
