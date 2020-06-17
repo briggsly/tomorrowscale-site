@@ -6,7 +6,7 @@ comments: false
 hidden: false
 permalink: /engineering-the-immune-system-distributedbio
 categories: [ biology, vaccines, materials, AI, biotech, podcast ]
-image: assets/images/engineering-the-immune-system-distributedbio.png
+image: assets/images/engineering-the-immune-system.png
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Engineering-the-Immune-System---DistributedBio-ebie91" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
