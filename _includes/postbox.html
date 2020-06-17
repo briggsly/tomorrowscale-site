@@ -1,7 +1,7 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 
-<div class="col-lg-4 col-md-6 mb-30px card-group">
+<div class="col-lg-6 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
@@ -16,17 +16,11 @@
                 {% endif %}
             </a>
         </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
-        </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 {% if post.author %}
                 <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                <span class="post-name" style="font-weight:500;font-size:1.0rem;"><a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"><h5>{{ post.title }}</h5></a></span><br/>
                 {% endif %}
                 <span class="post-date">{{ post.date | date_to_string }}</span>
                 </span>

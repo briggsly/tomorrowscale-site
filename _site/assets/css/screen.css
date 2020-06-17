@@ -173,7 +173,7 @@ section.recent-posts {
     font-size: .8rem;
     display: flex;
     align-items: center;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
 }
 
 .author-thumb {
