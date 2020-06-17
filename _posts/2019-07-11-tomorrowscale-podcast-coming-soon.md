@@ -6,7 +6,7 @@ comments: false
 hidden: false
 permalink: /coming-soon-the-tomorrowscale-podcast
 categories: [ science, medicine, research, biotech, nanotech, AI, podcast ]
-image: assets/images/tomorrowscale_cover.png
+image: assets/images/tomorrowscale-cover.png
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/TomorrowScale-Podcast-Preview-e4jmrj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

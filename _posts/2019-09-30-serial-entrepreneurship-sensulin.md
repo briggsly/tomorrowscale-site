@@ -6,7 +6,7 @@ comments: false
 hidden: false
 permalink: /mike-moradi-sensulin/
 categories: [ biology, chemistry, materials, biotech, entrepreneur, podcast ]
-image: assets/images/serial-entrepreneurship-sensulin-moradi.png
+image: assets/images/serial-entrepreneurship-moradi-sensulin.png
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Serial-Hard-Science-Entrepreneurship---Sensulin-e5o61u" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
