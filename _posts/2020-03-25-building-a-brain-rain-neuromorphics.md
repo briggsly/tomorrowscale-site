@@ -4,9 +4,9 @@ title:  "Building a Brain - Rain Neuromorphics"
 author: briggs
 comments: false
 hidden: false
-permalink: /proof-of-prophylaxis-mit-langer-lab
+permalink: /building-a-brain-rain-neuromorphics
 categories: [ biology, vaccines, materials, AI, biotech, podcast ]
-image: assets/images/proof-of-prophylaxis-mit-langer-lab.png
+image: assets/images/building-a-brain-rain-neuromorphics.png
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Building-a-Brain---Rain-Neuromorphics-ebut4s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

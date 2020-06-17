@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /reading-between-the-scans-aiq-solutions
-categories: [ biology, vaccines, materials, AI, biotech, podcast ]
+categories: [ biology, vaccines, materials, AI, biotech ]
 image: assets/images/reading-between-the-scans-aiq-solutions.png
 ---
 

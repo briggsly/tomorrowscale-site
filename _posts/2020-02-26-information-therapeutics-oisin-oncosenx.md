@@ -4,9 +4,9 @@ title:  "Information Therapeutics - Oisin Biotechnologies & OncoSenX"
 author: briggs
 comments: false
 hidden: false
-permalink: /information-therapeutics-oisin-biotechnologies-and-oncosenx
-categories: [ biology, vaccines, materials, AI, biotech, podcast ]
-image: assets/images/information-therapeutics-oisin-biotechnologies-and-oncosenx.png
+permalink: /information-therapeutics-oisin-and-oncosenx
+categories: [ biology, chemistry, biotech ]
+image: assets/images/information-therapeutics-oisin-and-oncosenx.png
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Information-Therapeutics---Oisin-Biotechnologies--OncoSenX-eb3ms0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

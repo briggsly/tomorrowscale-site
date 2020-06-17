@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /medicine-from-microbes-lodo-therapeutics
-categories: [ biology, microbiology, AI, biotech, podcast ]
+categories: [ biology, microbiology, AI, biotech ]
 image: assets/images/medicine-from-microbes-lodo-therapeutics.png
 ---
 

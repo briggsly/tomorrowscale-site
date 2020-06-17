@@ -4,9 +4,9 @@ title:  "Engineering the (Immune) System - DistributedBio"
 author: briggs
 comments: false
 hidden: false
-permalink: /proof-of-prophylaxis-mit-langer-lab
+permalink: /engineering-the-immune-system-distributedbio
 categories: [ biology, vaccines, materials, AI, biotech, podcast ]
-image: assets/images/proof-of-prophylaxis-mit-langer-lab.png
+image: assets/images/engineering-the-immune-system-distributedbio.png
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Engineering-the-Immune-System---DistributedBio-ebie91" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
