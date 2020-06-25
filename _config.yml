@@ -4,8 +4,8 @@ title: "TomorrowScale"
 description: "Stories from the cutting edge of science and medicine."
 logo: 'assets/images/tomorrowscale.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/tomorrowscale-site'
-url: 'https://briggsly.github.io'
+baseurl: ''
+url: 'https://tomorrowscale.com'
 google_analytics: 'UA-'
 disqus: 'briggsly'
 mailchimp-list: 'https://tomorroscale.us7.list-manage.com/subscribe/post?u=f89af74ca9420010cf2199bfe&amp;id=ee44285133'
