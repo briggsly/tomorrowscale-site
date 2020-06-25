@@ -6,7 +6,7 @@ comments: false
 featured: true
 hidden: false
 permalink: /natures-nuclear-oklo-inc
-categories: [ physics, nuclear, engineering, chemistry, energy, podcast ]
+categories: [ physics, nuclear, engineering, chemistry, energy, startup ]
 image: assets/images/natures-nuclear-oklo-inc.png
 description: "Oklo co-founders discuss building a startup building advanced nuclear powerplants."
 ---

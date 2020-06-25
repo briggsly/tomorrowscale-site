@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /generating-discoveries-in-days-insilico-medicine
-categories: [ biology, microbiology, AI, biotech ]
+categories: [ biology, chemistry, drug discovery, machine learning, AI, biotech, data science, startup ]
 image: assets/images/generating-discoveries-in-days-insilico-medicine.png
 ---
 

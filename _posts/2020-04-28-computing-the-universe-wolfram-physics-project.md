@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /computing-the-universe-jonathan-gorard
-categories: [ chemistry, biology, AI, biotech, podcast ]
+categories: [ mathematics, physics, machine learning, data science, research ]
 image: assets/images/computing-the-universe-jonathan-gorard.png
 ---
 

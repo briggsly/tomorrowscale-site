@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /chemification-prof-lee-cronin
-categories: [ chemistry, biology, AI, biotech, podcast ]
+categories: [ chemistry, biology, machine learning, robotics, biotech, research ]
 image: assets/images/chemification-prof-lee-cronin.png
 ---
 

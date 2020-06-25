@@ -1,9 +1,9 @@
 # Site
 name: "TomorrowScale"
 title: "TomorrowScale"
-description: "The cutting edge of science and medicine."
+description: "Stories from the cutting edge of science and medicine."
 logo: 'assets/images/tomorrowscale.png'
-favicon: 'assets/images/tomorrowscale-logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: '/tomorrowscale-site'
 url: 'https://briggsly.github.io'
 google_analytics: 'UA-'
@@ -40,7 +40,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 10
 paginate_path: /page:num/
     
 # Other

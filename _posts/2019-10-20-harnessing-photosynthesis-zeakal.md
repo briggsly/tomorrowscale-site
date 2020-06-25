@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /harnessing-photosynthesis-zeakal
-categories: [ biology, genetics, agriculture, podcast ]
+categories: [ biology, botany, genetics, agriculture, startup ]
 image: assets/images/harnessing-photosynthesis-zeakal.png
 ---
 

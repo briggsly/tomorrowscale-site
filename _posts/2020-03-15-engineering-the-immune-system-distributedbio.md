@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /engineering-the-immune-system-distributedbio
-categories: [ biology, vaccines, materials, AI, biotech, podcast ]
+categories: [ biology, engineering, vaccines, drug discovery, biotech, startup ]
 image: assets/images/engineering-the-immune-system.png
 ---
 

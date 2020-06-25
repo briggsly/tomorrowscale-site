@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /coming-soon-the-tomorrowscale-podcast
-categories: [ science, medicine, research, biotech, nanotech, AI, podcast ]
+categories: [ research, startup ]
 image: assets/images/tomorrowscale-cover.png
 ---
 

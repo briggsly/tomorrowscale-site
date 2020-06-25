@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /the-measure-of-medicine-prof-lichtenberg
-categories: [ chemistry, biology, AI, biotech, podcast ]
+categories: [ medicine, economics, biotech, research ]
 image: assets/images/the-measure-of-medicine-prof-lichtenberg.png
 ---
 

@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /your-digital-twin-unlearnai
-categories: [ chemistry, biology, AI, biotech, podcast ]
+categories: [ medicine, biology, machine learning, AI, biotech, data science, startup ]
 image: assets/images/your-digital-twin-unlearnai.png
 ---
 

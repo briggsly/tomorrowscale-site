@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /trials-to-your-door-sanguine-biosciences
-categories: [ chemistry, biology, AI, biotech, podcast ]
+categories: [ medicine, biology, biotech, startup ]
 image: assets/images/trials-to-your-door-sanguine-biosciences.png
 ---
 

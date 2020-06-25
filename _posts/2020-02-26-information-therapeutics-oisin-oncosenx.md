@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /information-therapeutics-oisin-and-oncosenx
-categories: [ biology, chemistry, biotech ]
+categories: [ biology, chemistry, genetics, biotech, drug delivery, startup ]
 image: assets/images/information-therapeutics-oisin-and-oncosenx.png
 ---
 

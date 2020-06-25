@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /proof-of-prophylaxis-mit-langer-lab
-categories: [ biology, vaccines, materials, AI, biotech ]
+categories: [ biology, vaccines, materials, AI, drug delivery, biotech, engineering, research ]
 image: assets/images/proof-of-prophylaxis-mit-langer-lab.png
 ---
 

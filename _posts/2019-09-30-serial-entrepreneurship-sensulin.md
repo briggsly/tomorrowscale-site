@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /mike-moradi-sensulin/
-categories: [ biology, chemistry, materials, biotech, entrepreneur, podcast ]
+categories: [ biology, chemistry, materials, biotech, drug delivery, startup, funding, entrepreneurship ]
 image: assets/images/serial-entrepreneurship-moradi-sensulin.png
 ---
 

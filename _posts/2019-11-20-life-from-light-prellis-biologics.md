@@ -5,7 +5,7 @@ author: briggs
 comments: false
 hidden: false
 permalink: /life-from-light-prellis-biologics
-categories: [ biology, physics, bioprinting, engineering, podcast ]
+categories: [ biology, physics, biotech, materials, engineering, medicine, startup ]
 image: assets/images/life-from-light-prellis-biologics.png
 ---
 
