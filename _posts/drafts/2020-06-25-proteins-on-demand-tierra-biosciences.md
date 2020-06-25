@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Proteins On Demand - Tierra Biosciences"
+title:  "On-Demand Biology - Tierra Biosciences"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: true
-permalink: /proteins-on-demand-tierra-biosciences
+permalink: /on-demand-biology-tierra-biosciences
 categories: [ biology, chemistry, engineering, manufacturing, synthetic biology, startup ]
 image: assets/images/proteins-on-demand-tierra-biosciences.png
 ---
