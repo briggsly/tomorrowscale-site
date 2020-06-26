@@ -5,9 +5,93 @@
     <description>Stories from the cutting edge of science and medicine.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jun 2020 22:18:05 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2020 22:18:05 -0500</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2020 11:25:11 -0500</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2020 11:25:11 -0500</lastBuildDate>
     <generator>Jekyll v4.1.0</generator>
+    
+      <item>
+        <title>On-Demand Biology - Tierra Biosciences</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/On-Demand-Biology---Tierra-Biosciences-efv774&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How do you build biology? Simple: DNA to RNA to proteins, right? Not so fast.&lt;/p&gt;
+
+&lt;p&gt;Each one of your trillions of cells are themselves little factories, constantly producing various peptides and proteins that your body needs from building blocks of amino acids encoded by our genes. Multiple industries use various forms of biological manufacturing wherein they’ve harnessed cells of some kind: yeast, E coli, animal, and human cell lines to manufacture proteins for us. But there are downsides to traditional cell culture methods; those same cells that protect also constrain. And some scientists want to leave the cell behind entirely.&lt;/p&gt;
+
+&lt;p&gt;On this episode, we’ll speak about the potential of cell-free manufacturing “bits to biology” with Tierra Biosciences CEO Zachary Sun, PhD, who co-founded Tierra with leading synthetic biologists in Harvard’s George Church and CalTech’s Richard Murray. Their vision is to “break free of the cell and fundamentally change how scientists approach discovery.” Launched just last month, Sol by Tierra is a cell-free manufacturing system that serves as a biological synthesis-as-a-service layer for R&amp;amp;D scientists. And it could play a key role enabling an on-demand biological future, where the protein of interest is just a click away.&lt;/p&gt;
+
+&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tierra Biosciences:&lt;/strong&gt; &lt;a href=&quot;https://tierrabiosciences.com&quot;&gt;https://tierrabiosciences.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sol by Tierra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow us on Twitter:&lt;/strong&gt; &lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;http://twitter.com/tomorrowscale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Jun 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/on-demand-biology-tierra-biosciences</link>
+        <guid isPermaLink="true">http://localhost:4000/on-demand-biology-tierra-biosciences</guid>
+        
+        
+        <category>biology</category>
+        
+        <category>chemistry</category>
+        
+        <category>engineering</category>
+        
+        <category>manufacturing</category>
+        
+        <category>synthetic biology</category>
+        
+        <category>genetics</category>
+        
+        <category>startup</category>
+        
+      </item>
+    
+      <item>
+        <title>On-Demand Biology - Tierra Biosciences</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Natures-Nuclear---Oklo-Inc-efad3j&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;On this episode Oklo co-founders Jacob DeWitte and Caroline Cochran join us to discuss what it took to get their startup to this point in development of the first advanced nuclear fission power plant; how a chance meeting with Sam Altman (OpenAI, YCombinator) changed their path; and how to think big, by starting small, even in nuclear.&lt;/p&gt;
+
+&lt;p&gt;This year Oklo became the first company to submit a combined construction and operating license application to the United States Nuclear Regulatory Commission (or NRC) for what is called an “advanced fission power plant.” Their design, the Aurora “powerhouse” centers around the concept not of a traditional reactor, but of a small, modular fission battery hundreds of times smaller than traditional reactors. Listen as Jake and Caroline take us through the fascinating founding story of Oklo and their big vision for the small future of clean energy.&lt;/p&gt;
+
+&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tierra Biosciences:&lt;/strong&gt; &lt;a href=&quot;https://oklo.com/&quot;&gt;https://oklo.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sol by Tierra:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Follow us on Twitter: &lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;http://twitter.com/tomorrowscale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jun 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/on-demand-biology-tierra-biosciences</link>
+        <guid isPermaLink="true">http://localhost:4000/on-demand-biology-tierra-biosciences</guid>
+        
+        
+        <category>biology</category>
+        
+        <category>chemistry</category>
+        
+        <category>engineering</category>
+        
+        <category>manufacturing</category>
+        
+        <category>synthetic biology</category>
+        
+        <category>genetics</category>
+        
+        <category>startup</category>
+        
+      </item>
     
       <item>
         <title>Nature's Nuclear - Oklo, Inc.</title>
@@ -304,80 +388,6 @@
         <category>biotech</category>
         
         <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Engineering the (Immune) System - DistributedBio</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Engineering-the-Immune-System---DistributedBio-ebie91&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;On this episode we sit down with star scientists from Netflix’s show ‘Pandemic,’ DistributedBio co-founder and CEO Jacob Glanville, and Centivax program lead and director of contract research Sarah Ives. We’ll hear more about the company’s founding story, get perspective on bootstrapping a biotech company, and learn more about their internal and client development programs that cover everything from vaccines, antibodies, and chimeric antigen receptor (CAR) T cell therapies, and which target diseases as varied as influenza, HIV, cancer, and even the SARS-CoV2 Coronavirus.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DistributedBio:&lt;/strong&gt; https://distributedbio.com&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Centivax:&lt;/strong&gt; https://www.centivax.com/&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Follow us on Twitter:&lt;/strong&gt; https://twitter.com/tomorrowscale&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Mar 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/engineering-the-immune-system-distributedbio</link>
-        <guid isPermaLink="true">http://localhost:4000/engineering-the-immune-system-distributedbio</guid>
-        
-        
-        <category>biology</category>
-        
-        <category>engineering</category>
-        
-        <category>vaccines</category>
-        
-        <category>drug discovery</category>
-        
-        <category>biotech</category>
-        
-        <category>startup</category>
-        
-      </item>
-    
-      <item>
-        <title>Information Therapeutics - Oisin Biotechnologies &amp; OncoSenX</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Information-Therapeutics---Oisin-Biotechnologies--OncoSenX-eb3ms0&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Drugs are getting smarter. A new wave of companies, including those founded by our guest, Matthew Scholz of Oisin Biotechnologies and OncoSenX, ride on recent advances in drug and gene delivery that are enabling what could be considered intelligent therapeutics. That is, they are able to both identify target cells (not visibly, but genetically) and then selectively destroy those cancerous or senescent cells. Novel medicines that include a diagnostic targeting system right within them, to potentially treat everything from cancer to aging.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Oisin Biotechnologies:&lt;/strong&gt; https://www.oisinbio.com/&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;OncoSenX:&lt;/strong&gt; https://www.oncosenx.com/&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Follow Us on Twitter:&lt;/strong&gt; https://twitter.com/TomorrowScale&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/information-therapeutics-oisin-and-oncosenx</link>
-        <guid isPermaLink="true">http://localhost:4000/information-therapeutics-oisin-and-oncosenx</guid>
-        
-        
-        <category>biology</category>
-        
-        <category>chemistry</category>
-        
-        <category>genetics</category>
-        
-        <category>biotech</category>
-        
-        <category>drug delivery</category>
-        
-        <category>startup</category>
         
       </item>
     

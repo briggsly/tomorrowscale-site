@@ -3,11 +3,11 @@ layout: post
 title:  "On-Demand Biology - Tierra Biosciences"
 author: briggs
 comments: false
-featured: false
-hidden: true
+featured: true
+hidden: false
 permalink: /on-demand-biology-tierra-biosciences
-categories: [ biology, chemistry, engineering, manufacturing, synthetic biology, startup ]
-image: assets/images/proteins-on-demand-tierra-biosciences.png
+categories: [ biology, chemistry, engineering, manufacturing, synthetic biology, genetics, startup ]
+image: assets/images/on-demand-biology-tierra-biosciences.png
 ---
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Natures-Nuclear---Oklo-Inc-efad3j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

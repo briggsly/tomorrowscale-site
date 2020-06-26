@@ -3,7 +3,7 @@ layout: post
 title:  "Nature's Nuclear - Oklo, Inc."
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /natures-nuclear-oklo-inc
 categories: [ physics, nuclear, engineering, chemistry, energy, startup ]
