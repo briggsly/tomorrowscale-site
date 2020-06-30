@@ -5,8 +5,8 @@ description: "Stories from the cutting edge of science and medicine."
 logo: 'assets/images/tomorrowscale.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-url: 'https://briggsly.github.io/tomorrowscale-site'
-google_analytics: 'UA-'
+url: 'https://tomorrowscale.com'
+google_analytics: 'UA-130690122-1'
 disqus: 'briggsly'
 mailchimp-list: 'https://tomorroscale.us7.list-manage.com/subscribe/post?u=f89af74ca9420010cf2199bfe&amp;id=ee44285133'
 include: ["_pages"]
