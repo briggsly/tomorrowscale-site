@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /building-a-brain-rain-neuromorphics
-categories: [ biology, vaccines, materials, AI, biotech, podcast ]
+categories: [ engineering, semiconductors, biology, materials, AI, physics, data science, research, startup ]
 image: assets/images/building-a-brain-rain-neuromorphics.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Building-a-Brain---Rain-Neuromorphics-ebut4s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Building-a-Brain---Rain-Neuromorphics-ebut4s" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 What does the future of scientific computing look like? Labs all over the world are racing to build chips based on our brains. But what can it do? And what will it be used for? On this episode, we’ll meet a company that built an actual analog neural network in order to solve this problem. Gordon Wilson, CEO of Rain Neuromorphics. 
 

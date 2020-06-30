@@ -9,7 +9,7 @@ categories: [ biology, vaccines, materials, AI, drug delivery, biotech, engineer
 image: assets/images/proof-of-prophylaxis-mit-langer-lab.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Vaccines save lives. Yet, despite concerted global efforts more than 1.5 million children die each year from vaccine preventable diseases. The Bill &amp; Melinda Gates Foundation are at the center of this massive endeavor, and have enlisted labs around the world to help solve intractable problems in the developing world, including work recently published in Science Translational Medicine. The technology involves a microneedle patch that can administer a standard vaccine, painlessly, but also leave an invisible vaccination record right on the skin. Meaning those who need vaccines can get them, even in the most remote locations, and those who don't need them, can prove they are protected without the need for paper or even digital records. You could carry the proof of prophylaxis with you, invisibly, as long as the vaccine protects you.
 

@@ -9,7 +9,7 @@ categories: [ biology, chemistry, drug discovery, machine learning, AI, biotech,
 image: assets/images/generating-discoveries-in-days-insilico-medicine.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Generating-Discoveries-in-Days---InSilico-Medicine-eam27c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Generating-Discoveries-in-Days---InSilico-Medicine-eam27c" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Drug discovery is changing. Deep generative models, as being pioneered by our guest Dr. Alex Zhavoronkov, founder and CEO of InSilico Medicine, are able to generate entirely new molecules and even, as we’ll hear, can discover new targets altogether. Within days.
 

@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /reading-between-the-scans-aiq-solutions
-categories: [ biology, medicine, AI, imaging, diagnostics, biotech, startup ]
+categories: [ biology, medicine, AI, diagnostics, biotech, data science, machine learning, startup ]
 image: assets/images/reading-between-the-scans-aiq-solutions.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Reading-Between-the-Scans---AIQ-Solutions-eatc88" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Reading-Between-the-Scans---AIQ-Solutions-eatc88" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 The ability to visualize disease is vital to many parts of patient care. On this episode, we’ll meet AIQ Solutions, a company that is taking a long-term view of a patient’s response to cancer treatment using computer vision and artificial intelligence. In doing so, they might change not just how we visualize cancer, but how we treat cancer.
 

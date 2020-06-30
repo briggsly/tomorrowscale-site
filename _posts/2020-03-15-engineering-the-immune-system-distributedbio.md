@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /engineering-the-immune-system-distributedbio
-categories: [ biology, engineering, vaccines, drug discovery, biotech, startup ]
+categories: [ biology, engineering, vaccines, drug discovery, biotech, research, startup ]
 image: assets/images/engineering-the-immune-system.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Engineering-the-Immune-System---DistributedBio-ebie91" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Engineering-the-Immune-System---DistributedBio-ebie91" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 On this episode we sit down with star scientists from Netflix's show 'Pandemic,' DistributedBio co-founder and CEO Jacob Glanville, and Centivax program lead and director of contract research Sarah Ives. We’ll hear more about the company's founding story, get perspective on bootstrapping a biotech company, and learn more about their internal and client development programs that cover everything from vaccines, antibodies, and chimeric antigen receptor (CAR) T cell therapies, and which target diseases as varied as influenza, HIV, cancer, and even the SARS-CoV2 Coronavirus. 
 

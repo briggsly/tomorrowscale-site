@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /mike-moradi-sensulin/
-categories: [ biology, chemistry, materials, biotech, drug delivery, startup, funding, entrepreneurship ]
+categories: [ biology, chemistry, materials, biotech, drug delivery, startup, investors, entrepreneurship ]
 image: assets/images/serial-entrepreneurship-moradi-sensulin.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Serial-Hard-Science-Entrepreneurship---Sensulin-e5o61u" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Serial-Hard-Science-Entrepreneurship---Sensulin-e5o61u" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 What is the difference between an entrepreneur and a serial entrepreneur? Is there a difference? We dig into this question with a four-time hard tech entrepreneur. Mike Moradi is the co-founder and CEO of Sensulin, a company marrying nanotechnology with biotechnology to develop a novel treatment for diabetes that releases insulin on when a patient has high blood sugar.  Mike has founded or helped establish more than a dozen nanotechnology and biotechnology companies, and was selected as a Young Global Leader by the World Economic Forum.
 

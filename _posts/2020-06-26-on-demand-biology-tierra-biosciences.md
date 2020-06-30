@@ -10,7 +10,7 @@ categories: [ biology, chemistry, engineering, manufacturing, synthetic biology,
 image: assets/images/on-demand-biology-tierra-biosciences.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/On-Demand-Biology---Tierra-Biosciences-efv774" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/On-Demand-Biology---Tierra-Biosciences-efv774" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 How do you build biology? Simple: DNA to RNA to proteins, right? Not so fast. 
 
@@ -22,7 +22,7 @@ This is the TomorrowScale Podcast. Hosted by [Justin Briggs](https://www.linkedi
 
 **Tierra Biosciences:** [https://tierrabiosciences.com](https://tierrabiosciences.com)
 
-**Sol by Tierra:** 
+**Sol by Tierra:** [https://tierrabiosciences.com/how-it-works](https://tierrabiosciences.com/how-it-works)
 
 **Follow us on Twitter:** <a href="http://twitter.com/tomorrowscale" target="_blank" rel="noopener ugc noreferrer">http://twitter.com/tomorrowscale</a>
 

@@ -9,7 +9,7 @@ categories: [ biology, physics, biotech, materials, engineering, medicine, start
 image: assets/images/life-from-light-prellis-biologics.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Life-from-Light---Prellis-Biologics-e93n0g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Life-from-Light---Prellis-Biologics-e93n0g" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 On this episode, we’ll meet Melanie Matheu, Ph.D., a scientist turning light into life. Her company, Prellis Biologics, has developed what may be a defining technology for the bioprinting industry: A method to print biology on the cellular level. They're shipping printed vasculature and organoids now, and have a plan to be in the clinic with printed organs within 3 years; that's right, some day you might walk around with a Prellis Biologics bioprinted organ inside you. Another interesting startup with huge potential. This is the TomorrowScale Podcast. Hosted by Justin Briggs.
 

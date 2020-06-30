@@ -9,7 +9,7 @@ categories: [ mathematics, physics, machine learning, data science, research ]
 image: assets/images/computing-the-universe-jonathan-gorard.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Computing-the-Universe---Jonathan-Gorard--Wolfram-Physics-edcssn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Computing-the-Universe---Jonathan-Gorard--Wolfram-Physics-edcssn" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 On this episode, we’ll speak with one of the principal researchers on the Wolfram Physics Project, Jonathan Gorard. We'll discuss how they plan to actually implement their “fundamental theory of the universe” and build these computational universes.
 

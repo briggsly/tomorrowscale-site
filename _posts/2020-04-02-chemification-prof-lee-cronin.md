@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /chemification-prof-lee-cronin
-categories: [ chemistry, biology, machine learning, robotics, biotech, research ]
+categories: [ chemistry, biology, machine learning, AI, robotics, biotech, materials, data science, research ]
 image: assets/images/chemification-prof-lee-cronin.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Chemification---Prof--Lee-Cronin-ecajia" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Chemification---Prof--Lee-Cronin-ecajia" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 In the beginning, there was chemistry. Well, not exactly. From those primordial reaction conditions … life emerged. But how? What separates chemistry from biology? How do we study the origin of life? What can we do with a Chemputer?
 

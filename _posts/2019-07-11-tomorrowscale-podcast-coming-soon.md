@@ -9,7 +9,7 @@ categories: [ research, startup ]
 image: assets/images/tomorrowscale-cover.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/TomorrowScale-Podcast-Preview-e4jmrj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/TomorrowScale-Podcast-Preview-e4jmrj" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 **The TomorrowScale Podcast is a series of conversations with the scientists and leaders who are building the future.**
 

@@ -9,7 +9,7 @@ categories: [ biology, chemistry, genetics, biotech, drug delivery, startup ]
 image: assets/images/information-therapeutics-oisin-and-oncosenx.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Information-Therapeutics---Oisin-Biotechnologies--OncoSenX-eb3ms0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Information-Therapeutics---Oisin-Biotechnologies--OncoSenX-eb3ms0" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Drugs are getting smarter. A new wave of companies, including those founded by our guest, Matthew Scholz of Oisin Biotechnologies and OncoSenX, ride on recent advances in drug and gene delivery that are enabling what could be considered intelligent therapeutics. That is, they are able to both identify target cells (not visibly, but genetically) and then selectively destroy those cancerous or senescent cells. Novel medicines that include a diagnostic targeting system right within them, to potentially treat everything from cancer to aging. 
 

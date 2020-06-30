@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /medicine-from-microbes-lodo-therapeutics
-categories: [ biology, chemistry, microbiology, drug discovery, AI, robotics, biotech, data, startup ]
+categories: [ biology, chemistry, microbiology, drug discovery, AI, robotics, biotech, machine learning, data science, startup ]
 image: assets/images/medicine-from-microbes-lodo-therapeutics.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Medicine-from-Microbes---Lodo-Therapeutics-ea5rmp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Medicine-from-Microbes---Lodo-Therapeutics-ea5rmp" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 On this episode, we'll hear about Lodo and their plan to discover medicine from microbes. This is the TomorrowScale Podcast. Hosted by Justin Briggs.
 

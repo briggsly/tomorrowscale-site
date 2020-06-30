@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /your-digital-twin-unlearnai
-categories: [ medicine, biology, machine learning, AI, biotech, data science, startup ]
+categories: [ medicine, biology, machine learning, AI, biotech, clinical trials, data science, startup ]
 image: assets/images/your-digital-twin-unlearnai.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Your-Digital-Twin---UnlearnAI-ee0le3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Your-Digital-Twin---UnlearnAI-ee0le3" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 On this episode we'll meet biophysicist, machine learning researcher, and CEO of UnlearnAI Dr. Charles Fisher. He and the team at Unlearn have the goal to build the entire biomedical machine learning stack, from scratch. Their strategy is that with a fit-for-purpose biomedical machine learning infrastructure and novel deep learning techniques, along with enough data about patients, that they can generate synthetic versions of actual patients, entirely in the data, with the goal to make them “computationally indistinguishable” from real patients. 
 

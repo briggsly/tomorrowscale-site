@@ -5,13 +5,13 @@
     <description>Stories from the cutting edge of science and medicine.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jun 2020 09:28:16 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2020 09:28:16 -0500</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2020 10:12:54 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2020 10:12:54 -0500</lastBuildDate>
     <generator>Jekyll v4.1.0</generator>
     
       <item>
         <title>On-Demand Biology - Tierra Biosciences</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/On-Demand-Biology---Tierra-Biosciences-efv774&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/On-Demand-Biology---Tierra-Biosciences-efv774&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;How do you build biology? Simple: DNA to RNA to proteins, right? Not so fast.&lt;/p&gt;
 
@@ -23,7 +23,7 @@
 
 &lt;p&gt;&lt;strong&gt;Tierra Biosciences:&lt;/strong&gt; &lt;a href=&quot;https://tierrabiosciences.com&quot;&gt;https://tierrabiosciences.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sol by Tierra:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sol by Tierra:&lt;/strong&gt; &lt;a href=&quot;https://tierrabiosciences.com/how-it-works&quot;&gt;https://tierrabiosciences.com/how-it-works&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Follow us on Twitter:&lt;/strong&gt; &lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;http://twitter.com/tomorrowscale&lt;/a&gt;&lt;/p&gt;
 
@@ -54,7 +54,7 @@
     
       <item>
         <title>Nature's Nuclear - Oklo, Inc.</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Natures-Nuclear---Oklo-Inc-efad3j&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Natures-Nuclear---Oklo-Inc-efad3j&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;On this episode Oklo co-founders Jacob DeWitte and Caroline Cochran join us to discuss what it took to get their startup to this point in development of the first advanced nuclear fission power plant; how a chance meeting with Sam Altman (OpenAI, YCombinator) changed their path; and how to think big, by starting small, even in nuclear.&lt;/p&gt;
 
@@ -89,13 +89,15 @@
         
         <category>energy</category>
         
+        <category>investors</category>
+        
         <category>startup</category>
         
       </item>
     
       <item>
         <title>Trials to Your Door - Sanguine Biosciences</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Trials-to-Your-Door---Sanguine-Biosciences-eenbh9&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Trials-to-Your-Door---Sanguine-Biosciences-eenbh9&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;At the center of every clinical trial is a group of patients; each with a medical condition that we seek to understand more about through interacting with those patients directly. Startups like Sanguine Biosciences are part of a clinical services innovation layer, connecting population health, clinical research, and healthcare delivery in new ways using new technologies. On this episode, our guest is Brian Neman, CEO of Sanguine Biosciences, and adjunct instructor at the University of Southern California’s Price School of Public Policy. We discuss how recent technological advancements enable new way to make clinical research more patient-centric, better efficiency, and—critically in the time of COVID-19, ensure continuity of care and the advancement of medical research.&lt;/p&gt;
 
@@ -120,13 +122,15 @@
         
         <category>biotech</category>
         
+        <category>clinical trials</category>
+        
         <category>startup</category>
         
       </item>
     
       <item>
         <title>Your Digital Twin - UnlearnAI</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Your-Digital-Twin---UnlearnAI-ee0le3&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Your-Digital-Twin---UnlearnAI-ee0le3&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;On this episode we’ll meet biophysicist, machine learning researcher, and CEO of UnlearnAI Dr. Charles Fisher. He and the team at Unlearn have the goal to build the entire biomedical machine learning stack, from scratch. Their strategy is that with a fit-for-purpose biomedical machine learning infrastructure and novel deep learning techniques, along with enough data about patients, that they can generate synthetic versions of actual patients, entirely in the data, with the goal to make them “computationally indistinguishable” from real patients.&lt;/p&gt;
 
@@ -165,6 +169,8 @@
         
         <category>biotech</category>
         
+        <category>clinical trials</category>
+        
         <category>data science</category>
         
         <category>startup</category>
@@ -173,7 +179,7 @@
     
       <item>
         <title>The Measure of Medicine - Prof Frank Lichtenberg</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;On this show we talk a lot about the opportunity and the promise of innovation. It is incredibly difficult, however, to study the actual impact of those new technologies. In healthcare, we do have some chance to measure the impact of new medicines. But! What data do we use? What metrics are used? and why are they used? Today’s guest is Dr. Frank Lichtenberg, the Courtney C. Brown Professor of Business at the Graduate School of Business at Columbia University. Dr. Lichtenberg has taught at Columbia, Harvard, and Penn, worked for the Department of Justice, the Congressional Budget Office, and the Census Bureau, and has conducted several large studies on the impact of pharmaceutical innovation across diseases and geographies over the last 25 years. Right now, billions are sheltering in place from a pathogen that we must fight with drugs and vaccines. The purpose of this conversation is to gain a little bit better understanding of an important topic, relayed in the voice of a leading researcher, so that we may, in the future, invent and develop safer, better technologies to fight disease. To do that, we must measure medicine’s impact not only on the patient, but also the patient population, the healthcare system, and the entire economy.&lt;/p&gt;
 
@@ -198,13 +204,15 @@
         
         <category>biotech</category>
         
+        <category>clinical trials</category>
+        
         <category>research</category>
         
       </item>
     
       <item>
         <title>Computing the Universe - Jonathan Gorard, Wolfram Physics Project</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Computing-the-Universe---Jonathan-Gorard--Wolfram-Physics-edcssn&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Computing-the-Universe---Jonathan-Gorard--Wolfram-Physics-edcssn&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;On this episode, we’ll speak with one of the principal researchers on the Wolfram Physics Project, Jonathan Gorard. We’ll discuss how they plan to actually implement their “fundamental theory of the universe” and build these computational universes.&lt;/p&gt;
 
@@ -245,7 +253,7 @@
     
       <item>
         <title>Accelerating Evolution - Prof Chang Liu</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Accelerating-Evolution---Prof--Chang-Liu-ecrin1&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Accelerating-Evolution---Prof--Chang-Liu-ecrin1&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Dr. Chang Liu, assistant professor of biomedical engineering at the University of California, Irvine, has transformed traditional yeast culture methods into an engine to accelerate evolution in order to understand the drivers of selection and gain the ability view fitness not as a crossroads, but a landscape–a mutational topology that he and his collaborators are able to navigate.&lt;/p&gt;
 
@@ -272,17 +280,19 @@
         
         <category>biology</category>
         
+        <category>synthetic biology</category>
+        
         <category>AI</category>
         
         <category>biotech</category>
         
-        <category>podcast</category>
+        <category>research</category>
         
       </item>
     
       <item>
         <title>Chemification - Prof Lee Cronin</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Chemification---Prof--Lee-Cronin-ecajia&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Chemification---Prof--Lee-Cronin-ecajia&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;In the beginning, there was chemistry. Well, not exactly. From those primordial reaction conditions … life emerged. But how? What separates chemistry from biology? How do we study the origin of life? What can we do with a Chemputer?&lt;/p&gt;
 
@@ -309,9 +319,15 @@
         
         <category>machine learning</category>
         
+        <category>AI</category>
+        
         <category>robotics</category>
         
         <category>biotech</category>
+        
+        <category>materials</category>
+        
+        <category>data science</category>
         
         <category>research</category>
         
@@ -319,7 +335,7 @@
     
       <item>
         <title>Building a Brain - Rain Neuromorphics</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Building-a-Brain---Rain-Neuromorphics-ebut4s&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Building-a-Brain---Rain-Neuromorphics-ebut4s&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;What does the future of scientific computing look like? Labs all over the world are racing to build chips based on our brains. But what can it do? And what will it be used for? On this episode, we’ll meet a company that built an actual analog neural network in order to solve this problem. Gordon Wilson, CEO of Rain Neuromorphics.&lt;/p&gt;
 
@@ -336,23 +352,29 @@
         <guid isPermaLink="true">http://localhost:4000/building-a-brain-rain-neuromorphics</guid>
         
         
-        <category>biology</category>
+        <category>engineering</category>
         
-        <category>vaccines</category>
+        <category>semiconductors</category>
+        
+        <category>biology</category>
         
         <category>materials</category>
         
         <category>AI</category>
         
-        <category>biotech</category>
+        <category>physics</category>
         
-        <category>podcast</category>
+        <category>data science</category>
+        
+        <category>research</category>
+        
+        <category>startup</category>
         
       </item>
     
       <item>
         <title>Engineering the (Immune) System - DistributedBio</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Engineering-the-Immune-System---DistributedBio-ebie91&quot; height=&quot;102px&quot; width=&quot;400px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Engineering-the-Immune-System---DistributedBio-ebie91&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;On this episode we sit down with star scientists from Netflix’s show ‘Pandemic,’ DistributedBio co-founder and CEO Jacob Glanville, and Centivax program lead and director of contract research Sarah Ives. We’ll hear more about the company’s founding story, get perspective on bootstrapping a biotech company, and learn more about their internal and client development programs that cover everything from vaccines, antibodies, and chimeric antigen receptor (CAR) T cell therapies, and which target diseases as varied as influenza, HIV, cancer, and even the SARS-CoV2 Coronavirus.&lt;/p&gt;
 
@@ -382,6 +404,8 @@
         <category>drug discovery</category>
         
         <category>biotech</category>
+        
+        <category>research</category>
         
         <category>startup</category>
         

@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /the-measure-of-medicine-prof-lichtenberg
-categories: [ medicine, economics, biotech, research ]
+categories: [ medicine, economics, biotech, clinical trials, research ]
 image: assets/images/the-measure-of-medicine-prof-lichtenberg.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 On this show we talk a lot about the opportunity and the promise of innovation. It is incredibly difficult, however, to study the actual impact of those new technologies. In healthcare, we do have some chance to measure the impact of new medicines. But! What data do we use? What metrics are used? and why are they used? Today’s guest is Dr. Frank Lichtenberg, the Courtney C. Brown Professor of Business at the Graduate School of Business at Columbia University. Dr. Lichtenberg has taught at Columbia, Harvard, and Penn, worked for the Department of Justice, the Congressional Budget Office, and the Census Bureau, and has conducted several large studies on the impact of pharmaceutical innovation across diseases and geographies over the last 25 years. Right now, billions are sheltering in place from a pathogen that we must fight with drugs and vaccines. The purpose of this conversation is to gain a little bit better understanding of an important topic, relayed in the voice of a leading researcher, so that we may, in the future, invent and develop safer, better technologies to fight disease. To do that, we must measure medicine’s impact not only on the patient, but also the patient population, the healthcare system, and the entire economy. 
 

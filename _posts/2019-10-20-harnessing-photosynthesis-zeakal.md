@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /harnessing-photosynthesis-zeakal
-categories: [ biology, botany, genetics, agriculture, startup ]
+categories: [ biology, botany, genetics, agriculture, investors, startup ]
 image: assets/images/harnessing-photosynthesis-zeakal.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Harnessing-Photosynthesis---Zeakal-e7sacl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Harnessing-Photosynthesis---Zeakal-e7sacl" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Unanticipated results can lead to great discoveries. Zeakal is a company founded by turning such an unexpected outcome into a promising biotechnology company. We conducted multiple interviews between 3 cities, two hemispheres, and a dozen time zones. We have one of the co-inventors, Dr. Greg Bryan, CTO, take us through the science behind the PhotoSeed technology and the genetics of photosynthesis. Then, stateside, we dig into the agricultural biotech industry and how Zeakal the company is approaching it with CEO Han Chen.
 

@@ -5,11 +5,11 @@ author: briggs
 comments: false
 hidden: false
 permalink: /accelerating-evolution-prof-chang-liu
-categories: [ chemistry, biology, AI, biotech, podcast ]
+categories: [ chemistry, biology, synthetic biology, AI, biotech, research ]
 image: assets/images/accelerating-evolution-prof-chang-liu.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Accelerating-Evolution---Prof--Chang-Liu-ecrin1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Accelerating-Evolution---Prof--Chang-Liu-ecrin1" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Dr. Chang Liu, assistant professor of biomedical engineering at the University of California, Irvine, has transformed traditional yeast culture methods into an engine to accelerate evolution in order to understand the drivers of selection and gain the ability view fitness not as a crossroads, but a landscape--a mutational topology that he and his collaborators are able to navigate. 
 

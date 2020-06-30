@@ -6,12 +6,12 @@ comments: false
 featured: false
 hidden: false
 permalink: /natures-nuclear-oklo-inc
-categories: [ physics, nuclear, engineering, chemistry, energy, startup ]
+categories: [ physics, nuclear, engineering, chemistry, energy, investors, startup ]
 image: assets/images/natures-nuclear-oklo-inc.png
 description: "Oklo co-founders discuss building a startup building advanced nuclear powerplants."
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Natures-Nuclear---Oklo-Inc-efad3j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Natures-Nuclear---Oklo-Inc-efad3j" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 On this episode Oklo co-founders Jacob DeWitte and Caroline Cochran join us to discuss what it took to get their startup to this point in development of the first advanced nuclear fission power plant; how a chance meeting with Sam Altman (OpenAI, YCombinator) changed their path; and how to think big, by starting small, even in nuclear.
 
