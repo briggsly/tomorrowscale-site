@@ -5,8 +5,8 @@
     <description>Stories from the cutting edge of science and medicine.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Aug 2020 19:25:21 -0500</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2020 19:25:21 -0500</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2020 19:48:51 -0500</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2020 19:48:51 -0500</lastBuildDate>
     <generator>Jekyll v4.1.0</generator>
     
       <item>
@@ -15,9 +15,11 @@
 
 &lt;p&gt;How do you build biology? Simple: DNA to RNA to proteins, right? Not so fast.&lt;/p&gt;
 
-&lt;p&gt;Each one of your trillions of cells are themselves little factories, constantly producing various peptides and proteins that your body needs from building blocks of amino acids encoded by our genes. Multiple industries use various forms of biological manufacturing wherein they’ve harnessed cells of some kind: yeast, E coli, animal, and human cell lines to manufacture proteins for us. But there are downsides to traditional cell culture methods; those same cells that protect also constrain. And some scientists want to leave the cell behind entirely.&lt;/p&gt;
+&lt;p&gt;Each one of your trillions of cells are themselves little factories, constantly producing various peptides and proteins that your body needs from building blocks of amino acids encoded by our genes. Multiple industries use various forms of biological manufacturing wherein they’ve harnessed cells of some kind–yeast, &lt;em&gt;E. coli&lt;/em&gt;, animal, and human cell lines–to manufacture proteins for us. But there are downsides to traditional cell culture methods: those same cells that protect also constrain. And some scientists want to leave the cell behind entirely.&lt;/p&gt;
 
-&lt;p&gt;On this episode, we’ll speak about the potential of cell-free manufacturing “bits to biology” with Tierra Biosciences CEO Zachary Sun, PhD, who co-founded Tierra with leading synthetic biologists in Harvard’s George Church and CalTech’s Richard Murray. Their vision is to “break free of the cell and fundamentally change how scientists approach discovery.” Launched just last month, Sol by Tierra is a cell-free manufacturing system that serves as a biological synthesis-as-a-service layer for R&amp;amp;D scientists. And it could play a key role enabling an on-demand biological future, where the protein of interest is just a click away.&lt;/p&gt;
+&lt;p&gt;On this episode, we’ll discuss the potential of cell-free manufacturing–“bits to biology”–with Tierra Biosciences CEO Zachary Sun, PhD. Zach co-founded Tierra with leading synthetic biologists in Harvard’s George Church and CalTech’s Richard Murray. Their vision is to “break free of the cell and fundamentally change how scientists approach discovery.”&lt;/p&gt;
+
+&lt;p&gt;Launched just last month, Sol by Tierra is a cell-free manufacturing system that serves as a biological synthesis-as-a-service layer for R&amp;amp;D scientists. And it could play a key role enabling an on-demand biological future, where the protein of interest is just a click away.&lt;/p&gt;
 
 &lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
 
@@ -99,11 +101,13 @@
         <title>Trials to Your Door - Sanguine Biosciences</title>
         <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Trials-to-Your-Door---Sanguine-Biosciences-eenbh9&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;At the center of every clinical trial is a group of patients; each with a medical condition that we seek to understand more about through interacting with those patients directly. Startups like Sanguine Biosciences are part of a clinical services innovation layer, connecting population health, clinical research, and healthcare delivery in new ways using new technologies. On this episode, our guest is Brian Neman, CEO of Sanguine Biosciences, and adjunct instructor at the University of Southern California’s Price School of Public Policy. We discuss how recent technological advancements enable new way to make clinical research more patient-centric, better efficiency, and—critically in the time of COVID-19, ensure continuity of care and the advancement of medical research.&lt;/p&gt;
+&lt;p&gt;At the center of every clinical trial is a group of patients, each with a medical condition that we seek to understand more about through interacting with those patients directly. Startups like Sanguine Biosciences are part of a clinical services innovation layer, connecting population health, clinical research, and healthcare delivery in new ways using new technologies.&lt;/p&gt;
+
+&lt;p&gt;On this episode, our guest is Brian Neman, CEO of Sanguine Biosciences, and adjunct instructor at the University of Southern California’s Price School of Public Policy. We discuss how recent technological advancements enable new ways of making clinical research that improves safety, efficacy, and efficiency, and—-critically in the time of COVID-19–improved continuity of care and medical research.&lt;/p&gt;
 
 &lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sanguine Biosciences:&lt;/strong&gt; https://sanguinebio.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sanguine Biosciences:&lt;/strong&gt; &lt;a href=&quot;https://sanguinebio.com&quot;&gt;https://sanguinebio.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
 
@@ -138,17 +142,17 @@
 
 &lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Unlearn AI:&lt;/strong&gt; https://unlearn.health&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unlearn AI:&lt;/strong&gt;: &lt;a href=&quot;https://unlearn.health&quot;&gt;https://unlearn.health&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Charles Fisher CV, Google Scholar:&lt;/strong&gt; https://scholar.google.com/citations?user=MQlhMlwAAAAJ&amp;amp;hl=en&lt;/p&gt;
+&lt;p&gt;[&lt;strong&gt;Charles Fisher CV, Google Scholar:&lt;/strong&gt; &lt;a href=&quot;https://scholar.google.com/citations?user=MQlhMlwAAAAJ&amp;amp;hl=en&quot;&gt;https://scholar.google.com/citations?user=MQlhMlwAAAAJ&amp;amp;hl=en&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Boltzmann Encoded Adversarial Machines (BEAM) paper:&lt;/strong&gt; https://arxiv.org/pdf/1804.08682.pdf&lt;/p&gt;
+&lt;p&gt;[&lt;strong&gt;Boltzmann Encoded Adversarial Machines (BEAM) paper:&lt;/strong&gt; &lt;a href=&quot;https://arxiv.org/pdf/1804.08682.pdf&quot;&gt;https://arxiv.org/pdf/1804.08682.pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;“The FDA needs to set standards for using artificial intelligence in drug development” by Dr. Charles Fisher in StatNews, 11/7/2019:&lt;/strong&gt; https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/&lt;/p&gt;
+&lt;p&gt;[&lt;strong&gt;“The FDA needs to set standards for using artificial intelligence in drug development” by Dr. Charles Fisher in StatNews, 11/7/2019:&lt;/strong&gt; &lt;a href=&quot;https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/&quot;&gt;https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Dr. Fisher’s presentation at a recent FDA Meeting (begins on page 175; linked here since we didn’t end up discussing each point after all):&lt;/strong&gt; https://www.fda.gov/media/136577/download#page=175&lt;/p&gt;
+&lt;p&gt;[&lt;strong&gt;Dr. Fisher’s presentation at a recent FDA Meeting (begins on page 175; linked here since we didn’t end up discussing each point after all):&lt;/strong&gt; &lt;a href=&quot;https://www.fda.gov/media/136577/download#page=175&quot;&gt;https://www.fda.gov/media/136577/download#page=175&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Photocredit: Dr. Fisher’s headshot, augmented based on the blue binary background image, using a neural style transfer model found here:&lt;/strong&gt; https://git.io/Jf4a6&lt;/p&gt;
+&lt;p&gt;[&lt;strong&gt;Photocredit: Dr. Fisher’s headshot, augmented based on the blue binary background image, using a neural style transfer model found here:&lt;/strong&gt; &lt;a href=&quot;https://git.io/Jf4a6&quot;&gt;https://git.io/Jf4a6&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
