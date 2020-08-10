@@ -11,11 +11,13 @@ image: assets/images/trials-to-your-door-sanguine-biosciences.png
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Trials-to-Your-Door---Sanguine-Biosciences-eenbh9" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-At the center of every clinical trial is a group of patients; each with a medical condition that we seek to understand more about through interacting with those patients directly. Startups like Sanguine Biosciences are part of a clinical services innovation layer, connecting population health, clinical research, and healthcare delivery in new ways using new technologies. On this episode, our guest is Brian Neman, CEO of Sanguine Biosciences, and adjunct instructor at the University of Southern California's Price School of Public Policy. We discuss how recent technological advancements enable new way to make clinical research more patient-centric, better efficiency, and—critically in the time of COVID-19, ensure continuity of care and the advancement of medical research.
+At the center of every clinical trial is a group of patients, each with a medical condition that we seek to understand more about through interacting with those patients directly. Startups like Sanguine Biosciences are part of a clinical services innovation layer, connecting population health, clinical research, and healthcare delivery in new ways using new technologies. 
+
+On this episode, our guest is Brian Neman, CEO of Sanguine Biosciences, and adjunct instructor at the University of Southern California's Price School of Public Policy. We discuss how recent technological advancements enable new ways of making clinical research that improves safety, efficacy, and efficiency, and—-critically in the time of COVID-19--improved continuity of care and medical research.
 
 This is the TomorrowScale Podcast. Hosted by [Justin Briggs](https://www.linkedin.com/in/briggsly).
 
-**Sanguine Biosciences:** https://sanguinebio.com
+**Sanguine Biosciences:** [https://sanguinebio.com](https://sanguinebio.com)
 
 Listen on [Your Favorite Podcast App](https://anchor.fm/tomorrowscale/)
 

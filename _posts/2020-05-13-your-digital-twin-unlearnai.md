@@ -17,17 +17,17 @@ A “digital twin” could help to better understand the impact of medicines bef
 
 This is the TomorrowScale Podcast. Hosted by [Justin Briggs](https://www.linkedin.com/in/briggsly).
 
-**Unlearn AI:** https://unlearn.health
+**Unlearn AI:**: [https://unlearn.health](https://unlearn.health)
 
-**Charles Fisher CV, Google Scholar:** https://scholar.google.com/citations?user=MQlhMlwAAAAJ&hl=en
+[**Charles Fisher CV, Google Scholar:** [https://scholar.google.com/citations?user=MQlhMlwAAAAJ&hl=en](https://scholar.google.com/citations?user=MQlhMlwAAAAJ&hl=en)
 
-**Boltzmann Encoded Adversarial Machines (BEAM) paper:** https://arxiv.org/pdf/1804.08682.pdf
+[**Boltzmann Encoded Adversarial Machines (BEAM) paper:** [https://arxiv.org/pdf/1804.08682.pdf](https://arxiv.org/pdf/1804.08682.pdf)
 
-**“The FDA needs to set standards for using artificial intelligence in drug development” by Dr. Charles Fisher in StatNews, 11/7/2019:** https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/
+[**“The FDA needs to set standards for using artificial intelligence in drug development” by Dr. Charles Fisher in StatNews, 11/7/2019:** [https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/](https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/)
 
-**Dr. Fisher’s presentation at a recent FDA Meeting (begins on page 175; linked here since we didn't end up discussing each point after all):** https://www.fda.gov/media/136577/download#page=175
+[**Dr. Fisher’s presentation at a recent FDA Meeting (begins on page 175; linked here since we didn't end up discussing each point after all):** [https://www.fda.gov/media/136577/download#page=175](https://www.fda.gov/media/136577/download#page=175)
 
-**Photocredit: Dr. Fisher’s headshot, augmented based on the blue binary background image, using a neural style transfer model found here:** https://git.io/Jf4a6
+[**Photocredit: Dr. Fisher’s headshot, augmented based on the blue binary background image, using a neural style transfer model found here:** [https://git.io/Jf4a6](https://git.io/Jf4a6))
 
 **Listen on [Your Favorite Podcast App](https://anchor.fm/tomorrowscale/)**
 

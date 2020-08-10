@@ -1,20 +1,13 @@
----
-layout: page
-title: About TomorrowScale
-permalink: /about
-comments: false
----
-
-<div class="row justify-content-between">
+I"+<div class="row justify-content-between">
 <div class="col-md-8 pr-5 about-us">
 
 <h3>Why TomorrowScale?</h3>
 
-<p>To tackle the biggest problems and build the leading science-based companies, we must explore stories from the scientists and entrepreneurs on the benches and in the trenches of R&D. I’m a scientist and entrepreneur who is here because of a passion for scientific discovery and a desire to learn directly from peers and leaders regardless of geography.</p>
+<p>To tackle the biggest problems and build the leading science-based companies, we must explore stories from the scientists and entrepreneurs on the benches and in the trenches of R&amp;D. I’m a scientist and entrepreneur who is here because of a passion for scientific discovery and a desire to learn directly from peers and leaders regardless of geography.</p>
 
 <blockquote>These are stories from the cutting edge.</blockquote>
 
-<h4>Creator & Host</h4>
+<h4>Creator &amp; Host</h4>
 
 <p><a target="_blank" href="https://linkedin.com/in/briggsly">Justin Briggs</a> is the host of the TomorrowScale Podcast. Justin is a biotechnology executive and deep technology entrepreneur who works at the nexus of chemistry, biology, and engineering.</p>
 
@@ -39,12 +32,13 @@ comments: false
 
 <p>Thank you for your support! Your help supports producing, maintaining, and improving TomorrowScale and the <a target="_blank" href="https://anchor.fm/tomorrowscale">The TomorrowScale Podcast</a>.</p>
 
-<br><br>
+<br /><br />
 
-<a target="_blank" href="https://www.patreon.com/tomorrowscale?utm_content=author_sidebar_widget&utm_medium=patron_button_and_widgets_plugin&utm_campaign=3917030&utm_term=&utm_source=https://www.tomorrowscale.com/about/" class="btn btn-warning">Become a Patron</a> 
+<a target="_blank" href="https://www.patreon.com/tomorrowscale?utm_content=author_sidebar_widget&amp;utm_medium=patron_button_and_widgets_plugin&amp;utm_campaign=3917030&amp;utm_term=&amp;utm_source=https://www.tomorrowscale.com/about/" class="btn btn-warning">Become a Patron</a> 
 
-<br><br>
+<br /><br />
 
 </div>
 </div>
 </div>
+:ET
