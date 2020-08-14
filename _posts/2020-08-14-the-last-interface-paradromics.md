@@ -3,20 +3,20 @@ layout: post
 title:  "The Last Interface - Paradromics"
 author: briggs
 comments: false
-featured: false
-hidden: true
+featured: true
+hidden: false
 permalink: /the-last-interface-paradromics
 categories: [ neurotechnology, biotech, materials science, synthetic biology, startup ]
 image: assets/images/the-last-interface-paradromics.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/On-Demand-Biology---Tierra-Biosciences-efv774" height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/The-Last-Interface---Paradromics-ei30hv" height="160px" width="80%" frameborder="0" scrolling="no"></iframe>
 
-The development of brain-machine or brain-computer interfaces (BCIs) approaches an inflection point; Not just the pace of BCI progress, but also the capabilities and willingness to explore the field of neurotechnology have accelerated dramatically in recent years.
+The development of brain-machine or brain-computer interfaces (BCIs) approaches an inflection point; not just in the pace of BCI progress, but also the capabilities and willingness to explore the field of neurotechnology have accelerated dramatically in recent years.
 
 **1 ... 100 ... 3,072 ... 65,536 ...**
 
-On this episode of the TomorrowScale podcast, we speak with the scientist and entrepreneur leading a startup developing implantable connections between our brains and computers. Our guest is Dr. Matt Angle, CEO of Austin, TX based Paradromics. He and his team just announced the ARGO system: a brain computer interface consisting of an implantable microwire electrode array with over 10,000 channels per square centimeter (65,536 in total). At 26 Gigabits per second they have demonstrated the largest ever electrical recording of cortical activity in preclinical studies. At over 65,000 parallel electrode channels, Paradromics has opened the largest window into the senses and doorway into the brain to date.
+On this episode of the TomorrowScale podcast, we speak with the scientist and entrepreneur leading a startup developing implantable connections between our brains and computers. Our guest is Dr. Matt Angle, CEO of Austin, TX based Paradromics. He and his team just announced the ARGO system: a brain computer interface consisting of an implantable microwire electrode array with over 10,000 channels per square centimeter. At 26 Gigabits per second they have demonstrated the largest ever electrical recording of cortical activity in preclinical studies. At 65,536 parallel electrode channels, Paradromics has opened the largest window into the senses and doorway into the brain to date.
 
 In our conversation, we discuss the science of brain computer interface technology and look toward the potential clinical and consumer applications for melding humans and machines. Also, Matt candidly addresses the balance between the hype and hurdles that facing Paradromics and the neurotechnology field at large: Everything from the immense engineering and computation challenges, to the systemic issues holding back hard tech commercialization, a neurotechnology competitive playing field that now includes billionaire pet projects, and what it was like moving their company out of Silicon Valley.
 
