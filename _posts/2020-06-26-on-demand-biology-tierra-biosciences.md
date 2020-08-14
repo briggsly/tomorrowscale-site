@@ -4,7 +4,7 @@ title:  "On-Demand Biology - Tierra Biosciences"
 author: briggs
 comments: false
 featured: false
-hidden: true
+hidden: false
 permalink: /on-demand-biology-tierra-biosciences
 categories: [ biology, chemistry, engineering, manufacturing, synthetic biology, genetics, startup ]
 image: assets/images/on-demand-biology-tierra-biosciences.png
