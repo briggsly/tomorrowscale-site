@@ -10,7 +10,7 @@ categories: [ chemistry, biotech, materials science, synthetic biology, data sci
 image: assets/images/breaking-the-synthesis-barrier-postera.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/The-Last-Interface---Paradromics-ei30hv" height="160px" width="80%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Breaking-the-Synthesis-Barrier---PostEra-eklh4i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 How do you make a molecule? We’ve talked before on the TomorrowScale podcast about the challenges facing chemists--the "synthesis barrier." The creation of novel materials and the discovery of small molecule drugs is a labor-intensive, iterative process. Explore new chemical space requires chemistry know-how and ingenuity, and brute force experimentation. The chemical space is too vast, and the problem too multifactorial. 
 
