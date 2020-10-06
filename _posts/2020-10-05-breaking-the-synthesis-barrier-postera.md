@@ -18,7 +18,7 @@ How do you make a molecule? We’ve talked before on the TomorrowScale podcast a
 
 **PostEra uses machine learning to power a Chemistry-as-a-Service offering that hopes to accelerate drug discovery.**
 
-On this episode we'll meet Dr. Alpha Lee, Chief Scientific Officer, and Aaron Martin, CEO, two of three founders of PostEra, a company .  We discuss their work developing novel machine learning models that have demonstrated significant step-change improvements in the state of the art on chemistry-related and binding prediction data science tasks. Dr. Lee's research, starting from his lab at the University of Cambridge, includes a model that “speaks chemistry” [1], a graph neural network model that handles uncertainty in low data environments [2], and another that leverages the statistics of random matrices to tease the signal from the noise [3]. 
+On this episode we'll meet Dr. Alpha Lee, Chief Scientific Officer, and Aaron Martin, CEO, two of three founders of PostEra.  We discuss their work developing novel machine learning models that have demonstrated significant step-change improvements in the state of the art on chemistry-related and binding prediction data science tasks. Dr. Lee's research, starting from his lab at the University of Cambridge, includes a model that “speaks chemistry” [1], a graph neural network model that handles uncertainty in low data environments [2], and another that leverages the statistics of random matrices to tease the signal from the noise [3]. 
 
 **What is the future of chemistry?**
 
