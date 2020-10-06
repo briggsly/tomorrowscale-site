@@ -12,9 +12,9 @@ image: assets/images/breaking-the-synthesis-barrier-postera.png
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Breaking-the-Synthesis-Barrier---PostEra-eklh4i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-How do you make a molecule? We’ve talked before on the TomorrowScale podcast about the challenges facing chemists--the "synthesis barrier." The creation of novel materials and the discovery of small molecule drugs is a labor-intensive, iterative process. Explore new chemical space requires chemistry know-how and ingenuity, and brute force experimentation. The chemical space is too vast, and the problem too multifactorial. 
+How do you make a molecule? We’ve talked before on the TomorrowScale podcast about the challenges facing chemists--the "synthesis barrier." The creation of novel materials and the discovery of small molecule drugs is a labor-intensive, iterative process. Exploring new chemical space requires chemistry know-how, ingenuity, and brute force experimentation. It was thought that the chemical space is too vast, and the problem too multifactorial for machine learning to make much headway to unlock nature's recipe book. 
 
-And then, it wasn't.
+*And then, suddenly, it wasn't.*
 
 **PostEra uses machine learning to power a Chemistry-as-a-Service offering that hopes to accelerate drug discovery.**
 
