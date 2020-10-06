@@ -12,11 +12,17 @@ image: assets/images/breaking-the-synthesis-barrier-postera.png
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/The-Last-Interface---Paradromics-ei30hv" height="160px" width="80%" frameborder="0" scrolling="no"></iframe>
 
-How do you make a molecule? We’ve talked before on the TomorrowScale podcast about the challenges facing chemists--the "synthesis barrier." about the potential for novel machine learning methods, data science tools and computing infrastructure to advance drug and materials discoveries. How do you ma
+How do you make a molecule? We’ve talked before on the TomorrowScale podcast about the challenges facing chemists--the "synthesis barrier." The creation of novel materials and the discovery of small molecule drugs is a labor-intensive, iterative process. Explore new chemical space requires chemistry know-how and ingenuity, and brute force experimentation. The chemical space is too vast, and the problem too multifactorial. 
+
+And then, it wasn't.
+
+**PostEra uses machine learning to power a Chemistry-as-a-Service offering that hopes to accelerate drug discovery.**
+
+On this episode we'll meet Dr. Alpha Lee, Chief Scientific Officer, and Aaron Martin, CEO, two of three founders of PostEra, a company .  We discuss their work developing novel machine learning models that have demonstrated significant step-change improvements in the state of the art on chemistry-related and binding prediction data science tasks. Dr. Lee's research, starting from his lab at the University of Cambridge, includes a model that “speaks chemistry” [1], a graph neural network model that handles uncertainty in low data environments [2], and another that leverages the statistics of random matrices to tease the signal from the noise [3]. 
+
+**What is the future of chemistry?**
 
 > **"We are in a position similar to that of a man who was provided with a bunch of keys and who, having to open several doors in succession, always hit on the right key on the first or second trial. He became skeptical concerning the uniqueness of the coordination between keys and doors."** - Eugene Wigner, "[The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://doi.org/10.1002/cpa.3160130102)" (1960)
-
-On this episode we'll meet Dr. Alpha Lee, Chief Scientific Officer, and Aaron Martin, CEO, two of three founders of PostEra. We discuss their work developing novel machine learning models that have demonstrated significant step-change improvements in the state of the art on chemistry-related and binding prediction machine learning tasks. Dr. Lee's research, starting from his lab at the University of Cambridge, includes a model that “speaks chemistry” [1], graph neural networks that can handle uncertainty [2], and another still that leverages the statistics of random matrices to tease the signal from the noise [3].
 
 This is the TomorrowScale Podcast. Hosted by [Justin Briggs](https://www.linkedin.com/in/briggsly).
 

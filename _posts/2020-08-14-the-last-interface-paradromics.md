@@ -3,7 +3,7 @@ layout: post
 title:  "The Last Interface - Paradromics"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /the-last-interface-paradromics
 categories: [ neurotechnology, biotech, materials science, synthetic biology, startup ]

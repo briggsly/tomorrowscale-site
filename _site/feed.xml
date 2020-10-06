@@ -5,9 +5,72 @@
     <description>Stories from the cutting edge of science and medicine.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Aug 2020 15:44:09 -0500</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2020 15:44:09 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2020 22:55:48 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2020 22:55:48 -0500</lastBuildDate>
     <generator>Jekyll v4.1.0</generator>
+    
+      <item>
+        <title>Breaking the Synthesis Barrier - Postera</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/The-Last-Interface---Paradromics-ei30hv&quot; height=&quot;160px&quot; width=&quot;80%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How do you make a molecule? We’ve talked before on the TomorrowScale podcast about the challenges facing chemists–the “synthesis barrier.” The creation of novel materials and the discovery of small molecule drugs is a labor-intensive, iterative process. Explore new chemical space requires chemistry know-how and ingenuity, and brute force experimentation. The chemical space is too vast, and the problem too multifactorial.&lt;/p&gt;
+
+&lt;p&gt;And then, it wasn’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PostEra uses machine learning to power a Chemistry-as-a-Service offering that hopes to accelerate drug discovery.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On this episode we’ll meet Dr. Alpha Lee, Chief Scientific Officer, and Aaron Martin, CEO, two of three founders of PostEra, a company .  We discuss their work developing novel machine learning models that have demonstrated significant step-change improvements in the state of the art on chemistry-related and binding prediction data science tasks. Dr. Lee’s research, starting from his lab at the University of Cambridge, includes a model that “speaks chemistry” [1], a graph neural network model that handles uncertainty in low data environments [2], and another that leverages the statistics of random matrices to tease the signal from the noise [3].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is the future of chemistry?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“We are in a position similar to that of a man who was provided with a bunch of keys and who, having to open several doors in succession, always hit on the right key on the first or second trial. He became skeptical concerning the uniqueness of the coordination between keys and doors.”&lt;/strong&gt; - Eugene Wigner, “&lt;a href=&quot;https://doi.org/10.1002/cpa.3160130102&quot;&gt;The Unreasonable Effectiveness of Mathematics in the Natural Sciences&lt;/a&gt;” (1960)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PostEra:&lt;/strong&gt; &lt;a href=&quot;https://postera.ai&quot;&gt;https://postera.ai&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PostEra COVID-19 Moonshot:&lt;/strong&gt; &lt;a href=&quot;https://postera.ai/covid&quot;&gt;https://postera.ai/covid&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“Crowdsourcing drug discovery during a pandemic” &lt;a href=&quot;https://www.nature.com/articles/s41557-020-0496-2&quot;&gt;in Nature Chemistry&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[1] Molecular transformer&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1021/acscentsci.9b00576&quot;&gt;(Schwaller et al 2019)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[2] Random matrix discriminant (RMD)&lt;/strong&gt; &lt;a href=&quot;[https://doi.org/10.1073/pnas.1810847116](https://doi.org/10.1073/pnas.1810847116)&quot;&gt;(Lee et al 2019)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[3] Bayesian graph convolutional neural networks (GCNN)&lt;/strong&gt; &lt;a href=&quot;[https://doi.org/10.1039/C9SC00616H](https://doi.org/10.1039/C9SC00616H)&quot;&gt;(Zhang and Lee 2019)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow us on Twitter:&lt;/strong&gt; &lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;http://twitter.com/tomorrowscale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/breaking-the-synthesis-barrier-postera</link>
+        <guid isPermaLink="true">http://localhost:4000/breaking-the-synthesis-barrier-postera</guid>
+        
+        
+        <category>chemistry</category>
+        
+        <category>biotech</category>
+        
+        <category>materials science</category>
+        
+        <category>synthetic biology</category>
+        
+        <category>data science</category>
+        
+        <category>mathematics</category>
+        
+        <category>machine learning</category>
+        
+        <category>ai</category>
+        
+        <category>startup</category>
+        
+      </item>
     
       <item>
         <title>The Last Interface - Paradromics</title>
@@ -379,45 +442,6 @@
         <category>data science</category>
         
         <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Building a Brain - Rain Neuromorphics</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Building-a-Brain---Rain-Neuromorphics-ebut4s&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;What does the future of scientific computing look like? Labs all over the world are racing to build chips based on our brains. But what can it do? And what will it be used for? On this episode, we’ll meet a company that built an actual analog neural network in order to solve this problem. Gordon Wilson, CEO of Rain Neuromorphics.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rain Neuromorphics:&lt;/strong&gt; https://rain.ai&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Mar 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/building-a-brain-rain-neuromorphics</link>
-        <guid isPermaLink="true">http://localhost:4000/building-a-brain-rain-neuromorphics</guid>
-        
-        
-        <category>engineering</category>
-        
-        <category>semiconductors</category>
-        
-        <category>biology</category>
-        
-        <category>materials</category>
-        
-        <category>AI</category>
-        
-        <category>physics</category>
-        
-        <category>data science</category>
-        
-        <category>research</category>
-        
-        <category>startup</category>
         
       </item>
     
