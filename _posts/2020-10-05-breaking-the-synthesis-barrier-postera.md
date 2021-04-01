@@ -3,7 +3,7 @@ layout: post
 title:  "Breaking the Synthesis Barrier - Postera"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /breaking-the-synthesis-barrier-postera
 categories: [ chemistry, biotech, materials science, synthetic biology, data science, mathematics, machine learning, ai, startup ]
