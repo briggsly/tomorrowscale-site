@@ -37,11 +37,11 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>Support TomorrowScale</h5>
 
-<p>Thank you for your support! Your help supports producing, maintaining, and improving TomorrowScale and the <a target="_blank" href="https://anchor.fm/tomorrowscale">The TomorrowScale Podcast</a>.</p>
+<p>Thank you for your support! Your help supports producing, maintaining, and improving <a target="_blank" href="https://anchor.fm/tomorrowscale/support">The TomorrowScale Podcast</a>.</p>
 
-<br><br>
+<br>
 
-<a target="_blank" href="https://www.patreon.com/tomorrowscale?utm_content=author_sidebar_widget&utm_medium=patron_button_and_widgets_plugin&utm_campaign=3917030&utm_term=&utm_source=https://www.tomorrowscale.com/about/" class="btn btn-warning">Become a Patron</a> 
+<a target="_blank" href="https://www.patreon.com/tomorrowscale?utm_content=author_sidebar_widget&utm_medium=patron_button_and_widgets_plugin&utm_campaign=3917030&utm_term=&utm_source=https://www.tomorrowscale.com/about/" class="btn btn-warning">Support this Podcast</a> 
 
 <br><br>
 
