@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Virtual Recovery - John Krakauer, MD"
+title:  "Virtual Recovery - Prof John Krakauer"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /virtual-recovery-john-krakauer
 categories: [ neuroscience, vr, medical device, rehabilitation, remote, startup ]
@@ -12,7 +12,7 @@ image: assets/images/virtual-recovery-john-krakauer.png
 
 <iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Virtual-Recovery---John-Krakauer-etrbt7" height="160px" width="800px" frameborder="0" scrolling="no"></iframe>
 
-Strokes can have devastating consequences. Improving recovery outcomes will require new thinking. My grandmother's stroke years ago shook my family. I saw her in fits over the loss of precious skills—-the simple joy of typing, gone. The road to recovery is difficult, but the future of rehabilitation is bright and *very* interactive.
+In flash, a stroke can have devastating consequences. Improving recovery outcomes will require new thinking. My grandmother's stroke years ago shook my family. I saw her in fits over the loss of precious skills—-the simple joy of typing, gone. The road to recovery is difficult, but the future of rehabilitation is bright and interactive.
 
 On this episode we'll speak with Dr. Jon Krakauer, neurologist, director of the Brain Learning and Movement Lab and professor of neuroscience at Johns Hopkins University, and Chief Medical and Scientific Advisor to MindMaze, a company developing such telerehabilitation and digital therapeutics for neurologic conditions.
 
