@@ -20,7 +20,7 @@ Note: When we caught up with our guest, he was on the move so forgive a bit of b
 
 This is the TomorrowScale podcast. Hosted by Justin Briggs.
 
-**Rune Labs** (https://runelabs.io)
+**Rune Labs** [https://runelabs.io](https://runelabs.io)
 
 "The era of brain data - Neurotech after the turning point" [Rune Labs Blog](https://www.runelabs.io/post/neurotech-after-the-turning-point)
 
