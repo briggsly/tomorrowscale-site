@@ -3,10 +3,10 @@ layout: post
 title:  "The Mind's API - Rune Labs"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /the-minds-api-rune-labs
-categories: [ neuroscience, data science, medical device, rehabilitation, remote, startup ]
+categories: [ neuroscience, data science, medical device, remote, startup ]
 image: assets/images/the-minds-api-rune-labs.png
 ---
 
