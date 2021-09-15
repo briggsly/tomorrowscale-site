@@ -3,7 +3,7 @@ layout: post
 title:  "The Autonomous Lab - Arctoris"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /autonomous-lab-arctoris
 categories: [ drug discovery, laboratory automation, automation, software, startup ]

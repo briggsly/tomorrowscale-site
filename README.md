@@ -24,3 +24,7 @@ Copyright (C) 2019 Sal, https://www.wowthemes.net
 
 Thank you!
 
+### DOCS LINK
+
+[Docs for Mediumish Jekyll theme](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/)
+
