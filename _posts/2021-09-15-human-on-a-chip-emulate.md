@@ -22,9 +22,9 @@ This is the TomorrowScale podcast. Hosted by Justin Briggs.
 
 **[Dr. Levner's Bio](https://www.linkedin.com/in/daniel-levner-902270/)**
 
-**[Emulate's just announced $82 Million Series E](https://www.businesswire.com/news/home/20210907005165/en/Emulate-Closes-82-Million-Series-E-Financing-to-Scale-Amid-Rapid-Growth-in-Organ-on-a-Chip-Market)
+**[Emulate's just announced $82 Million Series E](https://www.businesswire.com/news/home/20210907005165/en/Emulate-Closes-82-Million-Series-E-Financing-to-Scale-Amid-Rapid-Growth-in-Organ-on-a-Chip-Market)**
 
-*"Reconstituting Organ-Level Lung Functions on a Chip"* (**[Huh et al 2010](https://www.science.org/lookup/doi/10.1126/science.1188302)**)
+**"Reconstituting Organ-Level Lung Functions on a Chip"** (**[Huh et al 2010](https://www.science.org/lookup/doi/10.1126/science.1188302)**)
 
 **[Additional Emulate Publications](https://emulatebio.com/resources/#publications)**
 
