@@ -10,7 +10,7 @@ categories: [ deep learning, machine learning, liver disease, tissue engineering
 image: assets/images/bile-to-trial-ochre-bio.png
 ---
 
-<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Human-on-a-Chip---Emulate-e17ceqf" height="160px" width="800px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/From-Bile-to-Trial---Ochre-Bio-e194ieh" height="160px" width="800px" frameborder="0" scrolling="no"></iframe>
 
 On this episode, Ochre Bio co-founders join us to discuss turning discarded organs into a goldmine of biological insight with deep phenotypics that enables the company to pan for fine-grained expression of all the genes across millions of individual cells from different locations across an organ, and connect those signals to specific disease processes within cells.   
 
