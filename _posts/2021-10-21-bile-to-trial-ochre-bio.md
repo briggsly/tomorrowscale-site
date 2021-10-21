@@ -5,7 +5,7 @@ author: briggs
 comments: false
 featured: true
 hidden: false
-permalink: /human-on-a-chip-emulate
+permalink: /bile-to-trial-ochre-bio
 categories: [ deep learning, machine learning, liver disease, tissue engineering, drug discovery, drug development, drug discovery, startup ]
 image: assets/images/bile-to-trial-ochre-bio.png
 ---
