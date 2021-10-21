@@ -3,7 +3,7 @@ layout: post
 title:  "Human on a Chip - Emulate"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /human-on-a-chip-emulate
 categories: [ organ on chip, biotechnology, engineering, design, microfluidics, drug discovery, startup ]
