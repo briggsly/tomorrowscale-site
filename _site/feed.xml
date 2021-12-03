@@ -5,9 +5,232 @@
     <description>Stories from the cutting edge of science and medicine.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Oct 2020 23:19:33 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2020 23:19:33 -0500</lastBuildDate>
-    <generator>Jekyll v4.1.0</generator>
+    <pubDate>Wed, 01 Dec 2021 21:15:59 -0600</pubDate>
+    <lastBuildDate>Wed, 01 Dec 2021 21:15:59 -0600</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>From Bile to Trial - Ochre Bio</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/From-Bile-to-Trial---Ochre-Bio-e194ieh&quot; height=&quot;160px&quot; width=&quot;800px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;On this episode, Ochre Bio co-founders join us to discuss turning discarded organs into a goldmine of biological insight with deep phenotypics that enables the company to pan for fine-grained expression of all the genes across millions of individual cells from different locations across an organ, and connect those signals to specific disease processes within cells.&lt;/p&gt;
+
+&lt;p&gt;The need &lt;a href=&quot;https://www.ochre-bio.com/&quot;&gt;Ochre Bio&lt;/a&gt; is addressing initially is literally piling up, but is still difficult to access. Every year, tens of thousands of organs are recovered for human transplantation, but a huge number—thousands of livers, kidneys, and other organs—are evaluated as unfit for use due to quality control issues: damage and/or disease. Two scientific entrepreneurs with lofty ambitions saw an opportunity to utilize those discarded livers as tools to accelerate drug discovery and development, and decided to join forces and co-found &lt;a href=&quot;https://www.ochre-bio.com/&quot;&gt;Ochre Bio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jack O’Meara, PhD is CEO, and Quin Wills, MD, PhD, is CSO of Ochre Bio, and their team includes teams across three labs on two continents. The Ochre team’s aim is to improve the quality and number of eligible transplant organs through the use of siRNA therapeutics administered &lt;em&gt;ex vivo&lt;/em&gt;, discovered through deep phenotyping on data derived from over a thousand rejected transplant livers and counting. Next, they hope to quickly translate those same compounds into human clinical trials for a wide range of liver diseases in patients with high unmet needs.&lt;/p&gt;
+
+&lt;p&gt;This episode is a ton of fun, and it was a blast to speak with both Jack and Quin about the company, founding story, and challenges and tips for success for scaling and solving hard technical problems for startup teams across multiple locations.&lt;/p&gt;
+
+&lt;p&gt;This is the TomorrowScale podcast. Hosted by Justin Briggs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.ochre-bio.com/&quot;&gt;Ochre Bio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;Follow us on Twitter&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Oct 2021 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/bile-to-trial-ochre-bio</link>
+        <guid isPermaLink="true">http://localhost:4000/bile-to-trial-ochre-bio</guid>
+        
+        
+        <category>deep learning</category>
+        
+        <category>machine learning</category>
+        
+        <category>liver disease</category>
+        
+        <category>tissue engineering</category>
+        
+        <category>drug discovery</category>
+        
+        <category>drug development</category>
+        
+        <category>startup</category>
+        
+      </item>
+    
+      <item>
+        <title>Human on a Chip - Emulate</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Human-on-a-Chip---Emulate-e17ceqf&quot; height=&quot;160px&quot; width=&quot;800px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;On this episode we’ll meet Dr. Daniel Levner, co-founder and Chief Technology Officer at &lt;a href=&quot;https://emulatebio.com&quot;&gt;Emulate&lt;/a&gt;, a company commercializing technology to remake human biology from the ground up using small rubbery microfluidic chips.&lt;/p&gt;
+
+&lt;p&gt;Forged in a multi-year partnership between &lt;a href=&quot;https://www.darpa.mil/&quot;&gt;DARPA&lt;/a&gt; and Harvard’s &lt;a href=&quot;https://wyss.harvard.edu/&quot;&gt;Wyss Institute&lt;/a&gt; for Biologically Inspired Engineering, Emulate develops organ chips for the lung, intestine, liver, kidney, and even the brain. Slotting in between cell culture dishes, organoids, and animal models, this burgeoning area is one in which startups must marry high design and fundamentally challenging biomedical engineering to recapitulate a human being on a chip reproducibly, at scale, and under budget. Their challenge, to simultaneously accelerate and improve outcomes while reducing costs in drug development, is immense. In response, Emulate’s organ chips are elegantly engineered &lt;a href=&quot;https://wyss.harvard.edu/news/organs-on-chips-acquired-by-moma/&quot;&gt;works of art&lt;/a&gt; that could enable scientists to move beyond the dish and blur the lines between &lt;em&gt;in vitro&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is the TomorrowScale podcast. Hosted by Justin Briggs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://emulatebio.com&quot;&gt;Emulate Bio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.linkedin.com/in/daniel-levner-902270/&quot;&gt;Dr. Levner’s Bio&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.businesswire.com/news/home/20210907005165/en/Emulate-Closes-82-Million-Series-E-Financing-to-Scale-Amid-Rapid-Growth-in-Organ-on-a-Chip-Market&quot;&gt;Emulate’s just announced $82 Million Series E&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Reconstituting Organ-Level Lung Functions on a Chip”&lt;/strong&gt; (&lt;strong&gt;&lt;a href=&quot;https://www.science.org/lookup/doi/10.1126/science.1188302&quot;&gt;Huh et al 2010&lt;/a&gt;&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://emulatebio.com/resources/#publications&quot;&gt;Additional Emulate Publications&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Axial’s Joshua Elkington recently published a &lt;a href=&quot;https://medium.com/@axialxyz/early-stage-companies-emulate-1404c08bb94f&quot;&gt;primer on Emulate&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;Follow us on Twitter&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Sep 2021 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/human-on-a-chip-emulate</link>
+        <guid isPermaLink="true">http://localhost:4000/human-on-a-chip-emulate</guid>
+        
+        
+        <category>organ on chip</category>
+        
+        <category>biotechnology</category>
+        
+        <category>engineering</category>
+        
+        <category>design</category>
+        
+        <category>microfluidics</category>
+        
+        <category>drug discovery</category>
+        
+        <category>startup</category>
+        
+      </item>
+    
+      <item>
+        <title>The Autonomous Lab - Arctoris</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/The-Autonomous-Lab---Arctoris-e11ugm7&quot; height=&quot;160px&quot; width=&quot;800px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;On this episode we’ll meet Thomas Fleming, Oxford-trained engineer, and co-founder and Chief Operating Officer of Arctoris a company that has developed a fully-autonomous drug discovery laboratory.&lt;/p&gt;
+
+&lt;p&gt;Founded in Oxford in 2016, Arctoris has staked their claim as the world’s first fully automated drug discovery platform. As the industry automates portions of the R&amp;amp;D pipeline, it will accelerate the development of novel medicines. Thomas and the team at Arctoris are working to accelerate that future.&lt;/p&gt;
+
+&lt;p&gt;This is the TomorrowScale podcast. Hosted by Justin Briggs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arctoris&lt;/strong&gt; &lt;a href=&quot;https://arctoris.com&quot;&gt;https://arctoris.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow us on Twitter:&lt;/strong&gt; &lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;http://twitter.com/tomorrowscale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 May 2021 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/autonomous-lab-arctoris</link>
+        <guid isPermaLink="true">http://localhost:4000/autonomous-lab-arctoris</guid>
+        
+        
+        <category>drug discovery</category>
+        
+        <category>laboratory automation</category>
+        
+        <category>automation</category>
+        
+        <category>software</category>
+        
+        <category>startup</category>
+        
+      </item>
+    
+      <item>
+        <title>The Mind's API - Rune Labs</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/The-Minds-API---Rune-Labs-e100kf4&quot; height=&quot;160px&quot; width=&quot;800px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;On this episode we’ll take a walk, literally, with the founder and CEO of Rune Labs, Brian Pepin. Brian previously led electroceuticals development at GSK-backed Galvani, built a glucose-sensing contact lens at Verily, paid dues at Google X Labs, and built brain-computer interfaces at Berkeley.&lt;/p&gt;
+
+&lt;p&gt;We discuss how Brian and his team at Rune Labs are trying to become the full-stack source, or the fabric, for neuroscience research. Their platform connects patient brain data to clinicians and researchers to help discover and develop novel diagnostics, devices, and even treatments for patients with various neurological disorder..&lt;/p&gt;
+
+&lt;p&gt;Note: When we caught up with our guest, he was on the move so forgive a bit of background and mic noise.&lt;/p&gt;
+
+&lt;p&gt;This is the TomorrowScale podcast. Hosted by Justin Briggs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rune Labs&lt;/strong&gt; &lt;a href=&quot;https://runelabs.io&quot;&gt;https://runelabs.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“The era of brain data - Neurotech after the turning point” &lt;a href=&quot;https://www.runelabs.io/post/neurotech-after-the-turning-point&quot;&gt;Rune Labs Blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“Oscillotherapeutics - Toward real-time control of pathologic oscillations in the brain” (&lt;a href=&quot;https://www.frontiersin.org/research-topics/17388/oscillotherapeutics---toward-real-time-control-of-pathological-oscillations-in-the-brain#overview&quot;&gt;FrontiersIn Topic&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow us on Twitter:&lt;/strong&gt; &lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;http://twitter.com/tomorrowscale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Apr 2021 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/the-minds-api-rune-labs</link>
+        <guid isPermaLink="true">http://localhost:4000/the-minds-api-rune-labs</guid>
+        
+        
+        <category>neuroscience</category>
+        
+        <category>data science</category>
+        
+        <category>medical device</category>
+        
+        <category>remote</category>
+        
+        <category>startup</category>
+        
+      </item>
+    
+      <item>
+        <title>Virtual Recovery - Prof John Krakauer</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Virtual-Recovery---John-Krakauer-etrbt7&quot; height=&quot;160px&quot; width=&quot;800px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In flash, a stroke can have devastating consequences. Improving recovery outcomes will require new thinking. My grandmother’s stroke years ago shook my family. I saw her in fits over the loss of precious skills—-the simple joy of typing, gone. The road to recovery is difficult, but the future of rehabilitation is bright and interactive.&lt;/p&gt;
+
+&lt;p&gt;On this episode we’ll speak with Dr. Jon Krakauer, neurologist, director of the Brain Learning and Movement Lab and professor of neuroscience at Johns Hopkins University, and Chief Medical and Scientific Advisor to MindMaze, a company developing such telerehabilitation and digital therapeutics for neurologic conditions.&lt;/p&gt;
+
+&lt;p&gt;Dr. Krakauer is a scientist and entrepreneur at the forefront of virtual recovery research. He is the head of one of the most multidisciplinary laboratories you’ll come across (the BLAM Lab at Johns Hopkins) in which his team conducts foundational neuroscience research. He and his team have developed digital medicines for stroke rehabilitation and other applications. And he is not afraid to challenge conventional approaches or thinking.&lt;/p&gt;
+
+&lt;p&gt;Researchers and entrepreneurs like Dr. Krakauer are building entire virtual worlds to help patients navigate recovery more interactively and effectively. A new wave of digital therapeutics leveraging software, devices, even robotics to deliver novel experiences to patients is coming online.&lt;/p&gt;
+
+&lt;p&gt;My grandmother never fully regained the ability to type. The work of Dr. Krakauer, collaborators, and other scientists working on this new type of digital neuropharmacology could potentially engage more of the brain to drive better outcomes for patients in the future.&lt;/p&gt;
+
+&lt;p&gt;Virtual recovery is here, and this medicine cabinet is in the cloud.&lt;/p&gt;
+
+&lt;p&gt;These are stories from the cutting edge of science and medicine.&lt;/p&gt;
+
+&lt;p&gt;This is TomorrowScale. Hosted by Justin Briggs (@briggsly).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BLAM Lab&lt;/strong&gt; (http://blam-lab.org/)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MindPod Dolphin&lt;/strong&gt; (formerly ‘I Am Dolphin’, https://www.mindmaze.com/healthcare/digital-therapies-for-brain-repair/#mind-pod)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MindMaze&lt;/strong&gt; (http://mindmaze.com)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MSquare Healthcare&lt;/strong&gt; (https://msquarehealthcare.com/)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;@BLAMLab on Twitter&lt;/strong&gt; (https://twitter.com/blamlab)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Follow us on Twitter:&lt;/strong&gt; &lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;http://twitter.com/tomorrowscale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Mar 2021 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/virtual-recovery-john-krakauer</link>
+        <guid isPermaLink="true">http://localhost:4000/virtual-recovery-john-krakauer</guid>
+        
+        
+        <category>neuroscience</category>
+        
+        <category>vr</category>
+        
+        <category>medical device</category>
+        
+        <category>rehabilitation</category>
+        
+        <category>remote</category>
+        
+        <category>startup</category>
+        
+      </item>
     
       <item>
         <title>Breaking the Synthesis Barrier - Postera</title>
@@ -237,211 +460,6 @@
         <category>clinical trials</category>
         
         <category>startup</category>
-        
-      </item>
-    
-      <item>
-        <title>Your Digital Twin - UnlearnAI</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Your-Digital-Twin---UnlearnAI-ee0le3&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;On this episode we’ll meet biophysicist, machine learning researcher, and CEO of UnlearnAI Dr. Charles Fisher. He and the team at Unlearn have the goal to build the entire biomedical machine learning stack, from scratch. Their strategy is that with a fit-for-purpose biomedical machine learning infrastructure and novel deep learning techniques, along with enough data about patients, that they can generate synthetic versions of actual patients, entirely in the data, with the goal to make them “computationally indistinguishable” from real patients.&lt;/p&gt;
-
-&lt;p&gt;A “digital twin” could help to better understand the impact of medicines before they’re used in a real patient, or in clinical trials to be used alongside real patients in what they call “intelligent control arms.” Unlearn believes that we can obtain the same rigorous, statistically-powered clinical evidence but with fewer subjects. A fascinating approach to the problem of how to make clinical trials more efficient, and understand more about what may be possible with more and better patient data.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Unlearn AI:&lt;/strong&gt;: &lt;a href=&quot;https://unlearn.health&quot;&gt;https://unlearn.health&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[&lt;strong&gt;Charles Fisher CV, Google Scholar:&lt;/strong&gt; &lt;a href=&quot;https://scholar.google.com/citations?user=MQlhMlwAAAAJ&amp;amp;hl=en&quot;&gt;https://scholar.google.com/citations?user=MQlhMlwAAAAJ&amp;amp;hl=en&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[&lt;strong&gt;Boltzmann Encoded Adversarial Machines (BEAM) paper:&lt;/strong&gt; &lt;a href=&quot;https://arxiv.org/pdf/1804.08682.pdf&quot;&gt;https://arxiv.org/pdf/1804.08682.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[&lt;strong&gt;“The FDA needs to set standards for using artificial intelligence in drug development” by Dr. Charles Fisher in StatNews, 11/7/2019:&lt;/strong&gt; &lt;a href=&quot;https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/&quot;&gt;https://www.statnews.com/2019/11/07/artificial-intelligence-drug-development-fda-standards-needed/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[&lt;strong&gt;Dr. Fisher’s presentation at a recent FDA Meeting (begins on page 175; linked here since we didn’t end up discussing each point after all):&lt;/strong&gt; &lt;a href=&quot;https://www.fda.gov/media/136577/download#page=175&quot;&gt;https://www.fda.gov/media/136577/download#page=175&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[&lt;strong&gt;Photocredit: Dr. Fisher’s headshot, augmented based on the blue binary background image, using a neural style transfer model found here:&lt;/strong&gt; &lt;a href=&quot;https://git.io/Jf4a6&quot;&gt;https://git.io/Jf4a6&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 May 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/your-digital-twin-unlearnai</link>
-        <guid isPermaLink="true">http://localhost:4000/your-digital-twin-unlearnai</guid>
-        
-        
-        <category>medicine</category>
-        
-        <category>biology</category>
-        
-        <category>machine learning</category>
-        
-        <category>AI</category>
-        
-        <category>biotech</category>
-        
-        <category>clinical trials</category>
-        
-        <category>data science</category>
-        
-        <category>startup</category>
-        
-      </item>
-    
-      <item>
-        <title>The Measure of Medicine - Prof Frank Lichtenberg</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Proof-of-Prophylaxis---MIT-Langer-Lab---Drs--Ana-Jaklenec--Kevin-McHugh-e9vbp1&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;On this show we talk a lot about the opportunity and the promise of innovation. It is incredibly difficult, however, to study the actual impact of those new technologies. In healthcare, we do have some chance to measure the impact of new medicines. But! What data do we use? What metrics are used? and why are they used? Today’s guest is Dr. Frank Lichtenberg, the Courtney C. Brown Professor of Business at the Graduate School of Business at Columbia University. Dr. Lichtenberg has taught at Columbia, Harvard, and Penn, worked for the Department of Justice, the Congressional Budget Office, and the Census Bureau, and has conducted several large studies on the impact of pharmaceutical innovation across diseases and geographies over the last 25 years. Right now, billions are sheltering in place from a pathogen that we must fight with drugs and vaccines. The purpose of this conversation is to gain a little bit better understanding of an important topic, relayed in the voice of a leading researcher, so that we may, in the future, invent and develop safer, better technologies to fight disease. To do that, we must measure medicine’s impact not only on the patient, but also the patient population, the healthcare system, and the entire economy.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dr. Lichtenberg’s Columbia Page:&lt;/strong&gt; https://www8.gsb.columbia.edu/cbs-directory/detail/frl1&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dr. Lichtenberg’s Publications via Google Scholar:&lt;/strong&gt; https://scholar.google.com/citations?hl=en&amp;amp;user=t3NSVwoAAAAJ&amp;amp;view_op=list_works&amp;amp;sortby=pubdate&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 May 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/the-measure-of-medicine-prof-lichtenberg</link>
-        <guid isPermaLink="true">http://localhost:4000/the-measure-of-medicine-prof-lichtenberg</guid>
-        
-        
-        <category>medicine</category>
-        
-        <category>economics</category>
-        
-        <category>biotech</category>
-        
-        <category>clinical trials</category>
-        
-        <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Computing the Universe - Jonathan Gorard, Wolfram Physics Project</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Computing-the-Universe---Jonathan-Gorard--Wolfram-Physics-edcssn&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;On this episode, we’ll speak with one of the principal researchers on the Wolfram Physics Project, Jonathan Gorard. We’ll discuss how they plan to actually implement their “fundamental theory of the universe” and build these computational universes.&lt;/p&gt;
-
-&lt;p&gt;Jonathan Gorard is a theoretical mathematician, researcher at the University of Cambridge, and consultant to Wolfram Research. He is ostensibly the scientist tasked with doing the maths to demonstrate these concepts to the scientific community and the public. Actually proving these ideas out in the open, over the din of more than a few detractors, may be one of the most difficult parts of this highly complex project.&lt;/p&gt;
-
-&lt;p&gt;Along with a call for scientists everywhere to contribute and critique the project in an open-source manner, the team published nearly a thousand pages and over 500 hours of video. All since Wolfram’s announcement on April 14th titled, “We may have found a fundamental theory of the universe… and it’s beautiful.” The Wolfram Physics team, consisting of Stephen Wolfram, Jonathan Gorard, and theoretical physicist and competitive programmer Max Piskanov, are literally live-streaming the entire thing. Scientific discovery, open collaboration, and peer review happening in real-time, and anyone can get involved. Now that is beautiful.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Wolfram Physics Project Website:&lt;/strong&gt; https://www.wolframphysics.org/&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Announcement by Stephen Wolfram:&lt;/strong&gt; https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Registry of Notable Universes:&lt;/strong&gt; https://www.wolframphysics.org/universes/&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jonathan Gorard, Cambridge University Center for Scientific Computing:&lt;/strong&gt; https://www.csc.cam.ac.uk/academic/MPhilSciComp/directory/gorard&lt;/p&gt;
-
-&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Apr 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/computing-the-universe-jonathan-gorard</link>
-        <guid isPermaLink="true">http://localhost:4000/computing-the-universe-jonathan-gorard</guid>
-        
-        
-        <category>mathematics</category>
-        
-        <category>physics</category>
-        
-        <category>machine learning</category>
-        
-        <category>data science</category>
-        
-        <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Accelerating Evolution - Prof Chang Liu</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Accelerating-Evolution---Prof--Chang-Liu-ecrin1&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Dr. Chang Liu, assistant professor of biomedical engineering at the University of California, Irvine, has transformed traditional yeast culture methods into an engine to accelerate evolution in order to understand the drivers of selection and gain the ability view fitness not as a crossroads, but a landscape–a mutational topology that he and his collaborators are able to navigate.&lt;/p&gt;
-
-&lt;p&gt;ACE, or automated continuous evolution, combines the Liu Lab’s orthogonal replication system, OrthoRep, with the robotic culturing system eVOVLR, developed by the Khalil Lab at Boston University, to automate evolution. Together, they can synthesize new biology; build novel enzymes and proteins to serve multiple industries; and, even help us fight not just today’s pandemic but tomorrow’s pandemics as well. A story of discovery in the fast-paced world of synthetic biology.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ACE pre-print on bioRxiv:&lt;/strong&gt; https://doi.org/10.1101/2020.02.21.960328&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Liu Lab at UC Irvine:&lt;/strong&gt; https://liulab.com/&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Khalil Lab at BU:&lt;/strong&gt; https://www.bu.edu/khalillab/&lt;/p&gt;
-
-&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Apr 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/accelerating-evolution-prof-chang-liu</link>
-        <guid isPermaLink="true">http://localhost:4000/accelerating-evolution-prof-chang-liu</guid>
-        
-        
-        <category>chemistry</category>
-        
-        <category>biology</category>
-        
-        <category>synthetic biology</category>
-        
-        <category>AI</category>
-        
-        <category>biotech</category>
-        
-        <category>research</category>
-        
-      </item>
-    
-      <item>
-        <title>Chemification - Prof Lee Cronin</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Chemification---Prof--Lee-Cronin-ecajia&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In the beginning, there was chemistry. Well, not exactly. From those primordial reaction conditions … life emerged. But how? What separates chemistry from biology? How do we study the origin of life? What can we do with a Chemputer?&lt;/p&gt;
-
-&lt;p&gt;In this episode, we’ll head to the lab of Dr. Lee Cronin, Regius Professor of Chemistry at the University of Glasgow, Scotland, and perhaps one of the most provocative chemists in the field today. We’ll discuss his lab’s view into the origin of life, the balance between theory and reality, and how the Chemputer could be an important component to the future of chemistry.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Cronin Lab:&lt;/strong&gt; https://croninlab.com
-&lt;strong&gt;Dr. Cronin on Twitter:&lt;/strong&gt; https://twitter.com/leecronin
-&lt;strong&gt;Chemify.org:&lt;/strong&gt; http://chemify.org&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 02 Apr 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/chemification-prof-lee-cronin</link>
-        <guid isPermaLink="true">http://localhost:4000/chemification-prof-lee-cronin</guid>
-        
-        
-        <category>chemistry</category>
-        
-        <category>biology</category>
-        
-        <category>machine learning</category>
-        
-        <category>AI</category>
-        
-        <category>robotics</category>
-        
-        <category>biotech</category>
-        
-        <category>materials</category>
-        
-        <category>data science</category>
-        
-        <category>research</category>
         
       </item>
     
