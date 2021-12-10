@@ -3,7 +3,7 @@ layout: post
 title:  "From Bile to Trial - Ochre Bio"
 author: briggs
 comments: false
-featured: true
+featured: false
 hidden: false
 permalink: /bile-to-trial-ochre-bio
 categories: [ deep learning, machine learning, liver disease, tissue engineering, drug discovery, drug development, drug discovery, startup ]

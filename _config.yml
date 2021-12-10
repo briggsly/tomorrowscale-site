@@ -1,7 +1,7 @@
 # Site
 name: "TomorrowScale"
 title: "TomorrowScale"
-description: "Stories from the cutting edge of science and medicine."
+description: "Scientists, engineers, and entre cutting edge of science and medicine."
 logo: 'assets/images/tomorrowscale.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -21,7 +21,7 @@ authors:
     email: justin@tomorrowscale.com
     web: https://www.tomorrowscale.com
     twitter: https://twitter.com/briggsly
-    description: "Creator and host @TomorrowScale podcast; DrugDev @Tetherex; Biology, Chemistry, Physics, Computation."
+    description: "Scientist, entrepreneur, and investor | Founder and managing partner @TomorrowScale Ventures"
 
 # Plugins
 plugins:
