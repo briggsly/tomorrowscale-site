@@ -1,5 +1,5 @@
 current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20220110-52290-gx2p7d.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20220110-55980-6m6wuo.rb extconf.rb
 creating Makefile
 
 current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser

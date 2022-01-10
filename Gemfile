@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem 'http_parser.rb', '= 0.8.0'
 end
 
 # wCforvljaG0v

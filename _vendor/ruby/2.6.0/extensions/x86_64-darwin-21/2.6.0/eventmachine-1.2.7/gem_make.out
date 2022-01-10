@@ -1,0 +1,16 @@
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/justinbriggs/.rbenv/versions/2.6.0/bin/ruby -I /Users/justinbriggs/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20220110-17269-gs7t9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20220110-17269-1ac3nxa

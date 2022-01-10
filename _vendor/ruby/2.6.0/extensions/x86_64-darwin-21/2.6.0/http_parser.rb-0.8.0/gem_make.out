@@ -1,0 +1,20 @@
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/justinbriggs/.rbenv/versions/2.6.0/bin/ruby -I /Users/justinbriggs/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20220110-17269-k5fgt9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/justinbriggs/tomorrowscale/tomorrowscale-site/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20220110-17269-1lg2sdl

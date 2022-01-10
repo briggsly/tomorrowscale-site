@@ -2,12 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TomorrowScale</title>
-    <description>Stories from the cutting edge of science and medicine.</description>
+    <description>Scientists, engineers, and entre cutting edge of science and medicine. A podcast by TomorrowScale Ventures.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Dec 2021 21:15:59 -0600</pubDate>
-    <lastBuildDate>Wed, 01 Dec 2021 21:15:59 -0600</lastBuildDate>
+    <pubDate>Mon, 10 Jan 2022 11:40:19 -0600</pubDate>
+    <lastBuildDate>Mon, 10 Jan 2022 11:40:19 -0600</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>NFTs and the Art of Drug Development</title>
+        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/NFTs-and-the-Art-of-Drug-Development---Molecule-e1b7bh2&quot; height=&quot;160px&quot; width=&quot;800px&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;On this episode, our guest is economist Paul Kohlhaas, co-founder and CEO of &lt;a href=&quot;https://www.molecule.to/&quot;&gt;Molecule&lt;/a&gt; and co-author of the &lt;a href=&quot;http://vitadao.com&quot;&gt;VitaDAO&lt;/a&gt; whitepaper. We’ll head to Berlin, Germany, where Paul and his team of scientists, engineers, entrepreneurs and enthusiasts who are designing new ways to advance medicines. In Molecule’s case, they’re using tools not from the lab, but from the web; specifically web3 blockchain tokenized assets called non-fungible tokens (NFTs) and decentralized autonomous organizations (DAOs).&lt;/p&gt;
+
+&lt;p&gt;The team at Molecule are leveraging these new methods to tokenize the intellectual property and then coordinate, collaborate, and even fund the conduct of scientific research and development by putting the entire process onto a blockchain. And since the intellectual property (IP) asset is digitized onto a distributed ledger, or tokenized on a blockchain, it is then very straightforward for them to be bought, sold, traded, and outlicensed on private and even public marketplaces.&lt;/p&gt;
+
+&lt;p&gt;The decentralized ‘web3’ technologies that enable this functionality are incredibly new, but are by their nature designed and intended to private, efficient, and potentially more secure way to research, develop, and commercialize new medicines. Paul and the team at Molecule are working to democratize the process of new drug development down to the last little “i” in diligence. Is this the dawn of a brave new world? Listen to find out.&lt;/p&gt;
+
+&lt;p&gt;This is the TomorrowScale podcast. Hosted by Justin Briggs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.molecule.to/&quot;&gt;Molecule&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.vitadao.com/&quot;&gt;VitaDAO&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://twitter.com/tomorrowscale&quot; target=&quot;_blank&quot; rel=&quot;noopener ugc noreferrer&quot;&gt;Follow us on Twitter&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Dec 2021 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/art-of-drug-development-molecule</link>
+        <guid isPermaLink="true">http://localhost:4000/art-of-drug-development-molecule</guid>
+        
+        
+        <category>deep learning</category>
+        
+        <category>machine learning</category>
+        
+        <category>liver disease</category>
+        
+        <category>tissue engineering</category>
+        
+        <category>drug discovery</category>
+        
+        <category>drug development</category>
+        
+        <category>startup</category>
+        
+      </item>
     
       <item>
         <title>From Bile to Trial - Ochre Bio</title>
@@ -423,41 +466,6 @@
         <category>energy</category>
         
         <category>investors</category>
-        
-        <category>startup</category>
-        
-      </item>
-    
-      <item>
-        <title>Trials to Your Door - Sanguine Biosciences</title>
-        <description>&lt;iframe src=&quot;https://anchor.fm/tomorrowscale/embed/episodes/Trials-to-Your-Door---Sanguine-Biosciences-eenbh9&quot; height=&quot;160px&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;At the center of every clinical trial is a group of patients, each with a medical condition that we seek to understand more about through interacting with those patients directly. Startups like Sanguine Biosciences are part of a clinical services innovation layer, connecting population health, clinical research, and healthcare delivery in new ways using new technologies.&lt;/p&gt;
-
-&lt;p&gt;On this episode, our guest is Brian Neman, CEO of Sanguine Biosciences, and adjunct instructor at the University of Southern California’s Price School of Public Policy. We discuss how recent technological advancements enable new ways of making clinical research that improves safety, efficacy, and efficiency, and—-critically in the time of COVID-19–improved continuity of care and medical research.&lt;/p&gt;
-
-&lt;p&gt;This is the TomorrowScale Podcast. Hosted by &lt;a href=&quot;https://www.linkedin.com/in/briggsly&quot;&gt;Justin Briggs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sanguine Biosciences:&lt;/strong&gt; &lt;a href=&quot;https://sanguinebio.com&quot;&gt;https://sanguinebio.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Listen on &lt;a href=&quot;https://anchor.fm/tomorrowscale/&quot;&gt;Your Favorite Podcast App&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Disclosures: The host and guest have no conflicts to disclose. Mr. Briggs and companies he is affiliated with are not current or previous clients of Sanguine Biosciences.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 28 May 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/trials-to-your-door-sanguine-biosciences</link>
-        <guid isPermaLink="true">http://localhost:4000/trials-to-your-door-sanguine-biosciences</guid>
-        
-        
-        <category>medicine</category>
-        
-        <category>biology</category>
-        
-        <category>biotech</category>
-        
-        <category>clinical trials</category>
         
         <category>startup</category>
         
