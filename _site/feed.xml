@@ -3,10 +3,10 @@
   <channel>
     <title>TomorrowScale</title>
     <description>Scientists, engineers, and entre cutting edge of science and medicine. A podcast by TomorrowScale Ventures.</description>
-    <link>https://tomorrowscale.com/</link>
-    <atom:link href="https://tomorrowscale.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jan 2022 12:07:04 -0600</pubDate>
-    <lastBuildDate>Mon, 10 Jan 2022 12:07:04 -0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Jan 2022 12:26:59 -0600</pubDate>
+    <lastBuildDate>Mon, 10 Jan 2022 12:26:59 -0600</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -32,8 +32,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Dec 2021 00:00:00 -0600</pubDate>
-        <link>https://tomorrowscale.com/art-of-drug-development-molecule</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/art-of-drug-development-molecule</guid>
+        <link>http://localhost:4000/art-of-drug-development-molecule</link>
+        <guid isPermaLink="true">http://localhost:4000/art-of-drug-development-molecule</guid>
         
         
         <category>deep learning</category>
@@ -75,8 +75,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Oct 2021 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/bile-to-trial-ochre-bio</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/bile-to-trial-ochre-bio</guid>
+        <link>http://localhost:4000/bile-to-trial-ochre-bio</link>
+        <guid isPermaLink="true">http://localhost:4000/bile-to-trial-ochre-bio</guid>
         
         
         <category>deep learning</category>
@@ -124,8 +124,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Sep 2021 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/human-on-a-chip-emulate</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/human-on-a-chip-emulate</guid>
+        <link>http://localhost:4000/human-on-a-chip-emulate</link>
+        <guid isPermaLink="true">http://localhost:4000/human-on-a-chip-emulate</guid>
         
         
         <category>organ on chip</category>
@@ -163,8 +163,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 May 2021 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/autonomous-lab-arctoris</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/autonomous-lab-arctoris</guid>
+        <link>http://localhost:4000/autonomous-lab-arctoris</link>
+        <guid isPermaLink="true">http://localhost:4000/autonomous-lab-arctoris</guid>
         
         
         <category>drug discovery</category>
@@ -204,8 +204,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Apr 2021 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/the-minds-api-rune-labs</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/the-minds-api-rune-labs</guid>
+        <link>http://localhost:4000/the-minds-api-rune-labs</link>
+        <guid isPermaLink="true">http://localhost:4000/the-minds-api-rune-labs</guid>
         
         
         <category>neuroscience</category>
@@ -257,8 +257,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Mar 2021 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/virtual-recovery-john-krakauer</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/virtual-recovery-john-krakauer</guid>
+        <link>http://localhost:4000/virtual-recovery-john-krakauer</link>
+        <guid isPermaLink="true">http://localhost:4000/virtual-recovery-john-krakauer</guid>
         
         
         <category>neuroscience</category>
@@ -314,8 +314,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/breaking-the-synthesis-barrier-postera</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/breaking-the-synthesis-barrier-postera</guid>
+        <link>http://localhost:4000/breaking-the-synthesis-barrier-postera</link>
+        <guid isPermaLink="true">http://localhost:4000/breaking-the-synthesis-barrier-postera</guid>
         
         
         <category>chemistry</category>
@@ -367,8 +367,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/the-last-interface-paradromics</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/the-last-interface-paradromics</guid>
+        <link>http://localhost:4000/the-last-interface-paradromics</link>
+        <guid isPermaLink="true">http://localhost:4000/the-last-interface-paradromics</guid>
         
         
         <category>neurotechnology</category>
@@ -408,8 +408,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jun 2020 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/on-demand-biology-tierra-biosciences</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/on-demand-biology-tierra-biosciences</guid>
+        <link>http://localhost:4000/on-demand-biology-tierra-biosciences</link>
+        <guid isPermaLink="true">http://localhost:4000/on-demand-biology-tierra-biosciences</guid>
         
         
         <category>biology</category>
@@ -451,8 +451,8 @@
 &lt;p&gt;&lt;em&gt;The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear their stories from the benches and in the trenches of research &amp;amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Jun 2020 00:00:00 -0500</pubDate>
-        <link>https://tomorrowscale.com/natures-nuclear-oklo-inc</link>
-        <guid isPermaLink="true">https://tomorrowscale.com/natures-nuclear-oklo-inc</guid>
+        <link>http://localhost:4000/natures-nuclear-oklo-inc</link>
+        <guid isPermaLink="true">http://localhost:4000/natures-nuclear-oklo-inc</guid>
         
         
         <category>physics</category>
