@@ -1,0 +1,36 @@
+I"�<iframe src="https://anchor.fm/tomorrowscale/embed/episodes/Breaking-the-Synthesis-Barrier---PostEra-eklh4i" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<p>How do you make a molecule? We’ve talked before on the TomorrowScale podcast about the challenges facing chemists–the “synthesis barrier.” The creation of novel materials and the discovery of small molecule drugs is a labor-intensive, iterative process. Exploring new chemical space requires chemistry know-how, ingenuity, and brute force experimentation. It was thought that the chemical space is too vast, and the problem too multifactorial for machine learning to make much headway to unlock nature’s recipe book.</p>
+
+<p><em>And then, suddenly, it wasn’t.</em></p>
+
+<p><strong>PostEra uses machine learning to power a Chemistry-as-a-Service offering that hopes to accelerate drug discovery.</strong></p>
+
+<p>On this episode we’ll meet Dr. Alpha Lee, Chief Scientific Officer, and Aaron Martin, CEO, two of three founders of PostEra.  We discuss their work developing novel machine learning models that have demonstrated significant step-change improvements in the state of the art on chemistry-related and binding prediction data science tasks. Dr. Lee’s research, starting from his lab at the University of Cambridge, includes a model that “speaks chemistry” [1], a graph neural network model that handles uncertainty in low data environments [2], and another that leverages the statistics of random matrices to tease the signal from the noise [3].</p>
+
+<p><strong>What is the future of chemistry?</strong></p>
+
+<blockquote>
+  <p><strong>“We are in a position similar to that of a man who was provided with a bunch of keys and who, having to open several doors in succession, always hit on the right key on the first or second trial. He became skeptical concerning the uniqueness of the coordination between keys and doors.”</strong> - Eugene Wigner, “<a href="https://doi.org/10.1002/cpa.3160130102">The Unreasonable Effectiveness of Mathematics in the Natural Sciences</a>” (1960)</p>
+</blockquote>
+
+<p>This is the TomorrowScale Podcast. Hosted by <a href="https://www.linkedin.com/in/briggsly">Justin Briggs</a>.</p>
+
+<p><strong>PostEra:</strong> <a href="https://postera.ai">https://postera.ai</a></p>
+
+<p><strong>PostEra COVID-19 Moonshot:</strong> <a href="https://postera.ai/covid">https://postera.ai/covid</a></p>
+
+<p>“Crowdsourcing drug discovery during a pandemic” <a href="https://www.nature.com/articles/s41557-020-0496-2">in Nature Chemistry</a></p>
+
+<p><strong>[1] Molecular transformer</strong> <a href="https://doi.org/10.1021/acscentsci.9b00576">(Schwaller et al 2019)</a></p>
+
+<p><strong>[2] Random matrix discriminant (RMD)</strong> <a href="[https://doi.org/10.1073/pnas.1810847116](https://doi.org/10.1073/pnas.1810847116)">(Lee et al 2019)</a></p>
+
+<p><strong>[3] Bayesian graph convolutional neural networks (GCNN)</strong> <a href="[https://doi.org/10.1039/C9SC00616H](https://doi.org/10.1039/C9SC00616H)">(Zhang and Lee 2019)</a></p>
+
+<p><strong>Follow us on Twitter:</strong> <a href="http://twitter.com/tomorrowscale" target="_blank" rel="noopener ugc noreferrer">http://twitter.com/tomorrowscale</a></p>
+
+<p>Listen on <a href="https://anchor.fm/tomorrowscale/">Your Favorite Podcast App</a></p>
+
+<p><em>The TomorrowScale Podcast was created to showcase scientists and entrepreneurs who are building science-based businesses, and to hear stories from the benches and in the trenches of research &amp; development. The views expressed by the host and guests are their own, and the content of this show should not be considered legal, tax, or investing advice. Thanks to our guests for sharing their time and knowledge with us. Thank you for listening. Please science responsibly.</em></p>
+:ET
