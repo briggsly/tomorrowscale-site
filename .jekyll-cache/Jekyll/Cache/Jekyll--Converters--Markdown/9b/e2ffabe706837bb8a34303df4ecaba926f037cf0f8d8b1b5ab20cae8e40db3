@@ -1,19 +1,12 @@
----
-layout: page
-title: About TomorrowScale
-permalink: /about
-comments: false
----
-
-<div class="row justify-content-between">
+I"n<div class="row justify-content-between">
 <div class="col-md-8 pr-5 about-us">
 
 <h3>TomorrowScale Ventures</h3>
 <p>TomorrowScale Ventures is an early stage venture capital fund backing life science and deep technology startups. We select for exceptional scientific and technical founding teams solving important challenges at the frontiers of science and medicine. Then we partner with and support them from insight to exit velocity, and beyond.</p> 
-<br>
+<br />
 <h3>TomorrowScale Podcast</h3>
 
-<p>To tackle the biggest problems and build the leading science-based companies, we must explore stories from the scientists and entrepreneurs on the benches and in the trenches of R&D. </p><br><p>Justin Briggs, TomorrowScale's creator and host, is a scientist, entrepreneur, and investor based in the Central United States, here because of an interest in scientific discovery, entrepreneurship, and a desire to learn directly from peers and leaders regardless of geography.</p>
+<p>To tackle the biggest problems and build the leading science-based companies, we must explore stories from the scientists and entrepreneurs on the benches and in the trenches of R&amp;D. </p><br /><p>Justin Briggs, TomorrowScale's creator and host, is a scientist, entrepreneur, and investor based in the Central United States, here because of an interest in scientific discovery, entrepreneurship, and a desire to learn directly from peers and leaders regardless of geography.</p>
 
 <blockquote>These are stories from the cutting edge of science and medicine.</blockquote>
 
@@ -23,7 +16,7 @@ comments: false
 
 <p>In December 2021, the TomorrowScale Podcast became affiliated with TomorrowScale Ventures. In 2022, we will return with more and bigger, better content. Stay tuned.</p>
 
-<h4>Creator & Host</h4>
+<h4>Creator &amp; Host</h4>
 
 <p><a target="_blank" href="https://linkedin.com/in/briggsly">Justin Briggs</a> is the founder of TomorrowScale, host of the TomorrowScale Podcast, and managing partner of <a target="_blank" href="https://tomorrowscalevc.com">TomorrowScale Ventures</a>.</p>
 
@@ -43,3 +36,4 @@ comments: false
 
 </div>
 </div>
+:ET
